@@ -1,0 +1,849 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
+}
+
+/* ========================================
+   CORNER SPARKLES - Y2K style
+   ======================================== */
+.corner-sparkle {
+  position: fixed;
+  pointer-events: none;
+  z-index: 5;
+}
+
+.corner-sparkle-1 {
+  top: 8%;
+  left: 5%;
+  color: var(--color-pink);
+  animation: sparkleFloat 4s ease-in-out infinite;
+}
+
+.corner-sparkle-2 {
+  top: 15%;
+  right: 8%;
+  color: var(--color-purple);
+  animation: sparkleFloat 5s ease-in-out infinite 0.5s;
+}
+
+.corner-sparkle-3 {
+  bottom: 12%;
+  left: 8%;
+  color: var(--color-purple-dark);
+  animation: sparkleFloat 4.5s ease-in-out infinite 1s;
+}
+
+.corner-sparkle-4 {
+  bottom: 18%;
+  right: 5%;
+  color: var(--color-pink-hot);
+  animation: sparkleFloat 5.5s ease-in-out infinite 0.3s;
+}
+
+@keyframes sparkleFloat {
+  0%, 100% {
+    transform: scale(1) rotate(0deg);
+    opacity: 0.7;
+  }
+  50% {
+    transform: scale(1.15) rotate(15deg);
+    opacity: 1;
+  }
+}
+
+/* ========================================
+   HEADER & NAVIGATION - Soft purple bar
+   ======================================== */
+.header {
+  background: linear-gradient(135deg, var(--color-lavender) 0%, var(--color-pink-light) 100%);
+  padding: 1rem 2rem;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  border-bottom: 3px solid var(--color-purple);
+}
+
+.nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.nav-item-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.nav-link {
+  color: var(--color-purple-dark);
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  padding: 0.5rem 1rem;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.nav-link:hover {
+  color: var(--color-pink-hot);
+  transform: translateY(-2px);
+}
+
+.nav-diamond {
+  color: var(--color-purple);
+  opacity: 0.6;
+  transition: all 0.3s ease;
+}
+
+.nav-item-wrapper:hover .nav-diamond {
+  transform: rotate(45deg);
+  color: var(--color-pink-hot);
+  opacity: 1;
+}
+
+/* ========================================
+   MAIN CONTENT
+   ======================================== */
+.main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* ========================================
+   SECTIONS
+   ======================================== */
+.section {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 5rem 2rem 4rem;
+  position: relative;
+}
+
+.section-home {
+  padding-top: 2rem;
+  min-height: calc(100vh - 60px);
+}
+
+.section-flights,
+.section-schedule,
+.section-location,
+.section-todos {
+  padding-top: 6rem;
+}
+
+.section-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.section-title {
+  font-family: var(--font-script);
+  font-size: clamp(2.5rem, 8vw, 4rem);
+  color: var(--color-purple-dark);
+  text-shadow: 2px 2px 0 var(--color-pink);
+}
+
+.section-sparkle {
+  color: var(--color-pink-hot);
+  animation: twinkle 3s ease-in-out infinite;
+}
+
+.section-subtitle {
+  font-family: var(--font-display);
+  font-size: 1rem;
+  color: var(--color-text-muted);
+  margin-bottom: 2rem;
+  letter-spacing: 0.05em;
+}
+
+/* Alternating section backgrounds */
+.section-flights,
+.section-location {
+  background: linear-gradient(180deg, var(--color-lavender-light) 0%, var(--color-pink-light) 100%);
+  position: relative;
+}
+
+.section-flights::before,
+.section-location::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 40px;
+  background: linear-gradient(180deg, var(--color-lavender-bg) 0%, transparent 100%);
+  pointer-events: none;
+}
+
+/* Wave divider at top of colored sections */
+.section-flights::after,
+.section-location::after {
+  content: '';
+  position: absolute;
+  top: -30px;
+  left: 0;
+  right: 0;
+  height: 60px;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 120' preserveAspectRatio='none'%3E%3Cpath d='M0,60 C300,120 600,0 900,60 C1050,90 1150,60 1200,60 L1200,120 L0,120 Z' fill='%23E8E0F5'/%3E%3C/svg%3E");
+  background-size: cover;
+  pointer-events: none;
+}
+
+.section-schedule,
+.section-todos {
+  background: var(--color-white);
+  position: relative;
+}
+
+.section-schedule::after,
+.section-todos::after {
+  content: '';
+  position: absolute;
+  top: -30px;
+  left: 0;
+  right: 0;
+  height: 60px;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 120' preserveAspectRatio='none'%3E%3Cpath d='M0,60 C300,120 600,0 900,60 C1050,90 1150,60 1200,60 L1200,120 L0,120 Z' fill='%23FFFFFF'/%3E%3C/svg%3E");
+  background-size: cover;
+  pointer-events: none;
+}
+
+/* Adjust coming-soon box for white backgrounds */
+.section-schedule .coming-soon,
+.section-todos .coming-soon {
+  background: var(--color-lavender-light);
+}
+
+/* ========================================
+   FLOATING SPARKLES
+   ======================================== */
+.floating-sparkle {
+  position: absolute;
+  pointer-events: none;
+  z-index: 1;
+}
+
+.sparkle-1 {
+  top: 8%;
+  left: 18%;
+  color: var(--color-pink);
+  animation: twinkle 3s ease-in-out infinite;
+}
+
+.sparkle-2 {
+  top: 20%;
+  right: 15%;
+  color: var(--color-purple);
+  animation: twinkle 4s ease-in-out infinite 0.3s;
+}
+
+.sparkle-3 {
+  bottom: 35%;
+  left: 12%;
+  color: var(--color-pink-hot);
+  animation: twinkle 3.5s ease-in-out infinite 0.6s;
+}
+
+.sparkle-4 {
+  top: 35%;
+  right: 10%;
+  color: var(--color-lavender);
+  animation: twinkle 4.5s ease-in-out infinite 0.9s;
+}
+
+.sparkle-5 {
+  bottom: 25%;
+  right: 18%;
+  color: var(--color-purple-dark);
+  animation: twinkle 3.2s ease-in-out infinite 1.2s;
+}
+
+.sparkle-6 {
+  bottom: 15%;
+  left: 22%;
+  color: var(--color-pink);
+  animation: twinkle 4.2s ease-in-out infinite 0.4s;
+}
+
+@keyframes twinkle {
+  0%, 100% {
+    opacity: 0.4;
+    transform: scale(1) rotate(0deg);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.2) rotate(20deg);
+  }
+}
+
+/* ========================================
+   RETRO WINDOW FRAME - Y2K browser style
+   ======================================== */
+.retro-window {
+  background: var(--color-white);
+  border: 3px solid var(--color-purple);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow:
+    8px 8px 0 var(--color-purple),
+    12px 12px 30px rgba(123, 95, 199, 0.2);
+  position: relative;
+  z-index: 2;
+  transform: rotate(-1deg);
+  animation: windowFloat 6s ease-in-out infinite;
+  max-width: 500px;
+  width: 90%;
+}
+
+@keyframes windowFloat {
+  0%, 100% {
+    transform: rotate(-1deg) translateY(0);
+  }
+  50% {
+    transform: rotate(-1deg) translateY(-8px);
+  }
+}
+
+.window-header {
+  background: linear-gradient(135deg, var(--color-pink-light) 0%, var(--color-lavender-light) 100%);
+  padding: 0.75rem 1rem;
+  border-bottom: 2px solid var(--color-purple);
+}
+
+.window-dots {
+  display: flex;
+  gap: 6px;
+}
+
+.dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  border: 2px solid var(--color-purple);
+}
+
+.dot-1 {
+  background: var(--color-pink-hot);
+}
+
+.dot-2 {
+  background: var(--color-yellow);
+}
+
+.dot-3 {
+  background: var(--color-mint);
+}
+
+.window-content {
+  padding: 2.5rem 2rem;
+  background: linear-gradient(180deg, var(--color-white) 0%, var(--color-lavender-light) 100%);
+}
+
+/* ========================================
+   HERO CONTENT & TITLE
+   ======================================== */
+.hero-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.title {
+  text-align: center;
+  line-height: 0.9;
+}
+
+.title-script {
+  display: block;
+  font-family: var(--font-script);
+  font-size: clamp(3.5rem, 11vw, 5.5rem);
+  font-weight: 400;
+  color: var(--color-purple-dark);
+  margin-bottom: 0.15em;
+  letter-spacing: 0.01em;
+  text-shadow:
+    3px 3px 0 var(--color-pink),
+    5px 5px 0 rgba(155, 126, 217, 0.4);
+  animation: titlePop 0.6s ease-out;
+}
+
+.title-secondary {
+  display: block;
+  font-family: var(--font-display);
+  font-size: clamp(1.6rem, 4.5vw, 2.4rem);
+  font-weight: 500;
+  color: var(--color-pink-hot);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  animation: titlePop 0.6s ease-out 0.2s backwards;
+}
+
+@keyframes titlePop {
+  from {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* ========================================
+   COUNTDOWN - Bubbly Y2K style
+   ======================================== */
+.countdown-container {
+  background: linear-gradient(135deg, var(--color-pink-light) 0%, var(--color-lavender-light) 100%);
+  border: 2px solid var(--color-purple);
+  border-radius: 20px;
+  padding: 1rem 1.5rem;
+}
+
+.countdown {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.countdown-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.2rem;
+  background: var(--color-white);
+  border: 2px solid var(--color-purple);
+  border-radius: 12px;
+  padding: 0.5rem 0.8rem;
+  min-width: 60px;
+  box-shadow: 3px 3px 0 var(--color-purple);
+  transition: all 0.3s ease;
+}
+
+.countdown-item:hover {
+  transform: translateY(-3px);
+  box-shadow: 5px 5px 0 var(--color-pink-hot);
+}
+
+.countdown-number {
+  font-family: var(--font-display);
+  font-size: clamp(1.8rem, 5vw, 2.5rem);
+  font-weight: 600;
+  color: var(--color-purple-dark);
+  line-height: 1;
+}
+
+.countdown-label {
+  font-family: var(--font-sans);
+  font-size: 0.55rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: var(--color-pink-hot);
+  text-transform: uppercase;
+}
+
+/* ========================================
+   EVENT INFO
+   ======================================== */
+.event-info {
+  text-align: center;
+  position: relative;
+  z-index: 2;
+  margin-top: 2rem;
+  animation: fadeInUp 0.6s ease-out 0.4s backwards;
+}
+
+.event-date {
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--color-purple-dark);
+  letter-spacing: 0.2em;
+  margin-bottom: 0.5rem;
+  text-shadow: 1px 1px 0 var(--color-pink);
+}
+
+.event-hashtag {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  font-weight: 700;
+  background: linear-gradient(135deg, var(--color-pink-hot) 0%, var(--color-purple) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  letter-spacing: 0.1em;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ========================================
+   FLIGHTS SECTION
+   ======================================== */
+.flights-container {
+  width: 100%;
+  max-width: 900px;
+}
+
+.flights-loading,
+.flights-empty,
+.flights-error {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  padding: 3rem;
+  color: var(--color-text-muted);
+}
+
+.flights-loading svg,
+.flights-empty svg {
+  color: var(--color-purple);
+  animation: float 2s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+.flights-setup {
+  background: var(--color-white);
+  border: 3px solid var(--color-purple);
+  border-radius: 16px;
+  padding: 2rem;
+  text-align: center;
+  box-shadow: 6px 6px 0 var(--color-purple);
+}
+
+.flights-setup svg {
+  color: var(--color-purple);
+  margin-bottom: 1rem;
+}
+
+.setup-title {
+  font-family: var(--font-display);
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: var(--color-purple-dark);
+  margin-bottom: 1rem;
+}
+
+.setup-instructions {
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  line-height: 1.8;
+  text-align: left;
+}
+
+.setup-instructions strong {
+  color: var(--color-purple-dark);
+}
+
+.setup-instructions code {
+  background: var(--color-lavender-light);
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  color: var(--color-purple-dark);
+}
+
+.flights-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.flight-card {
+  background: var(--color-white);
+  border: 3px solid var(--color-purple);
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 5px 5px 0 var(--color-purple);
+  transition: all 0.3s ease;
+}
+
+.flight-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 7px 7px 0 var(--color-pink-hot);
+}
+
+.flight-card-header {
+  background: linear-gradient(135deg, var(--color-pink-light) 0%, var(--color-lavender-light) 100%);
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  border-bottom: 2px solid var(--color-purple);
+  flex-wrap: wrap;
+}
+
+.flight-card-header svg {
+  color: var(--color-purple-dark);
+  flex-shrink: 0;
+}
+
+.flight-name {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--color-purple-dark);
+}
+
+.flight-origin {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  margin-left: auto;
+}
+
+.flight-details {
+  padding: 1rem;
+}
+
+.flight-section {
+  margin-bottom: 1rem;
+}
+
+.flight-section:last-child {
+  margin-bottom: 0;
+}
+
+.flight-section-title {
+  display: block;
+  font-family: var(--font-display);
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--color-purple);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 2px solid var(--color-lavender-light);
+}
+
+.flight-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.35rem 0;
+}
+
+.flight-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--color-pink-hot);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.flight-value {
+  font-size: 0.85rem;
+  color: var(--color-text-dark);
+  text-align: right;
+}
+
+/* ========================================
+   COMING SOON PLACEHOLDER
+   ======================================== */
+.coming-soon {
+  background: var(--color-white);
+  border: 3px dashed var(--color-purple);
+  border-radius: 16px;
+  padding: 3rem 4rem;
+  text-align: center;
+}
+
+.coming-soon p {
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+  color: var(--color-text-muted);
+  letter-spacing: 0.1em;
+}
+
+/* ========================================
+   RESPONSIVE DESIGN
+   ======================================== */
+@media (max-width: 768px) {
+  .corner-sparkle {
+    transform: scale(0.7);
+  }
+
+  .header {
+    padding: 0.875rem 1rem;
+  }
+
+  .nav {
+    gap: 0.25rem;
+  }
+
+  .nav-link {
+    font-size: 0.7rem;
+    padding: 0.4rem 0.6rem;
+    letter-spacing: 0.1em;
+  }
+
+  .nav-diamond {
+    display: none;
+  }
+
+  .section {
+    padding: 3rem 1.5rem;
+    min-height: auto;
+  }
+
+  .section-home {
+    min-height: 100vh;
+  }
+
+  .floating-sparkle {
+    transform: scale(0.7);
+  }
+
+  .sparkle-3, .sparkle-4, .sparkle-6 {
+    display: none;
+  }
+
+  .retro-window {
+    transform: rotate(0deg);
+  }
+
+  @keyframes windowFloat {
+    0%, 100% {
+      transform: rotate(0deg) translateY(0);
+    }
+    50% {
+      transform: rotate(0deg) translateY(-5px);
+    }
+  }
+
+  .window-content {
+    padding: 1.5rem 1rem;
+  }
+
+  .countdown {
+    gap: 0.5rem;
+  }
+
+  .countdown-item {
+    min-width: 50px;
+    padding: 0.4rem 0.6rem;
+  }
+
+  .flights-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .flights-setup {
+    padding: 1.5rem;
+  }
+
+  .setup-instructions {
+    font-size: 0.85rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .corner-sparkle {
+    display: none;
+  }
+
+  .floating-sparkle {
+    display: none;
+  }
+
+  .nav-link {
+    font-size: 0.6rem;
+    padding: 0.35rem 0.45rem;
+    letter-spacing: 0.08em;
+  }
+
+  .section {
+    padding: 2.5rem 1rem;
+  }
+
+  .section-title {
+    font-size: 2rem;
+  }
+
+  .countdown-item {
+    min-width: 45px;
+    padding: 0.35rem 0.5rem;
+  }
+
+  .countdown-number {
+    font-size: 1.5rem;
+  }
+
+  .countdown-label {
+    font-size: 0.45rem;
+  }
+
+  .title-script {
+    font-size: 2.8rem;
+  }
+
+  .title-secondary {
+    font-size: 1.2rem;
+  }
+
+  .coming-soon {
+    padding: 2rem;
+  }
+
+  .flight-card-header {
+    padding: 0.75rem;
+  }
+
+  .flight-details {
+    padding: 0.75rem;
+  }
+}
+
+/* ========================================
+   HOVER EFFECTS & INTERACTIONS
+   ======================================== */
+.retro-window {
+  transition: all 0.3s ease;
+}
+
+.retro-window:hover {
+  box-shadow:
+    10px 10px 0 var(--color-pink-hot),
+    14px 14px 35px rgba(123, 95, 199, 0.25);
+}
+
+.event-hashtag {
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.event-hashtag:hover {
+  transform: scale(1.05);
+  filter: brightness(1.1);
+}
