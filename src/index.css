@@ -45,6 +45,16 @@ body {
   min-height: 100vh;
   line-height: 1.6;
   overflow-x: hidden;
+  /* Prevent text size adjustment on orientation change */
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+/* Smaller grid on mobile for better performance */
+@media (max-width: 480px) {
+  body {
+    background-size: 30px 30px;
+  }
 }
 
 #root {

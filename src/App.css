@@ -3,7 +3,7 @@
   display: flex;
   flex-direction: column;
   position: relative;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 /* ========================================
@@ -60,8 +60,10 @@
 .header {
   background: linear-gradient(135deg, var(--color-lavender) 0%, var(--color-pink-light) 100%);
   padding: 1rem 2rem;
-  position: sticky;
+  position: fixed;
   top: 0;
+  left: 0;
+  right: 0;
   z-index: 100;
   border-bottom: 3px solid var(--color-purple);
 }
@@ -116,6 +118,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding-top: 60px; /* Offset for fixed header */
 }
 
 /* ========================================
@@ -574,24 +577,104 @@
   color: var(--color-purple-dark);
 }
 
+/* Flight Tabs - File folder style (left-aligned) */
+.flights-file {
+  display: flex;
+  flex-direction: column;
+  max-width: 900px;
+  width: 100%;
+}
+
+.flights-tabs {
+  display: flex;
+  gap: 0;
+  margin-bottom: 0;
+  position: relative;
+  z-index: 1;
+  justify-content: flex-start;
+}
+
+.flights-tab {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.7rem 1.4rem;
+  background: var(--color-white);
+  border: 3px solid var(--color-purple);
+  border-bottom: none;
+  border-radius: 12px 12px 0 0;
+  font-family: var(--font-display);
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--color-purple-dark);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  position: relative;
+  margin-right: -3px;
+  box-shadow: none;
+}
+
+.flights-tab:hover {
+  background: var(--color-pink-light);
+  transform: translateY(-2px);
+}
+
+.flights-tab.active {
+  background: var(--color-lavender-light);
+  color: var(--color-purple-dark);
+  border-color: var(--color-purple);
+  z-index: 2;
+  transform: translateY(0);
+}
+
+.flights-tab.active::after {
+  content: '';
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  right: 0;
+  height: 6px;
+  background: var(--color-lavender-light);
+}
+
+.flights-tab.active .tab-count {
+  background: linear-gradient(135deg, var(--color-pink-hot) 0%, var(--color-purple) 100%);
+  color: white;
+}
+
+.tab-count {
+  background: var(--color-purple);
+  color: white;
+  padding: 0.15rem 0.5rem;
+  border-radius: 10px;
+  font-size: 0.7rem;
+  font-weight: 700;
+}
+
 .flights-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 1.5rem;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1rem;
+  background: var(--color-lavender-light);
+  border: 3px solid var(--color-purple);
+  border-radius: 0 12px 12px 12px;
+  padding: 1.25rem;
+  box-shadow: 5px 5px 0 var(--color-purple);
 }
 
 .flight-card {
   background: var(--color-white);
-  border: 3px solid var(--color-purple);
-  border-radius: 16px;
+  border: 2px solid var(--color-purple);
+  border-radius: 12px;
   overflow: hidden;
-  box-shadow: 5px 5px 0 var(--color-purple);
   transition: all 0.3s ease;
+  box-shadow: 3px 3px 0 var(--color-lavender);
 }
 
 .flight-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 7px 7px 0 var(--color-pink-hot);
+  transform: translateY(-2px);
+  border-color: var(--color-pink-hot);
+  box-shadow: 4px 4px 0 var(--color-pink-hot);
 }
 
 .flight-card-header {
@@ -669,6 +752,220 @@
 }
 
 /* ========================================
+   LOCATION SECTION & CAROUSEL
+   ======================================== */
+.location-card {
+  background: var(--color-white);
+  border: 3px solid var(--color-purple);
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 8px 8px 0 var(--color-purple);
+  max-width: 600px;
+  width: 100%;
+  transition: all 0.3s ease;
+}
+
+.location-card:hover {
+  box-shadow: 10px 10px 0 var(--color-pink-hot);
+  transform: translateY(-4px);
+}
+
+/* Carousel */
+.carousel {
+  position: relative;
+}
+
+.carousel-main {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.carousel-image-container {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+}
+
+.carousel-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.carousel-counter {
+  position: absolute;
+  bottom: 12px;
+  right: 12px;
+  background: rgba(0, 0, 0, 0.6);
+  color: white;
+  padding: 0.25rem 0.6rem;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+.carousel-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: var(--color-white);
+  border: 2px solid var(--color-purple);
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 10;
+  transition: all 0.2s ease;
+  color: var(--color-purple-dark);
+}
+
+.carousel-btn:hover {
+  background: var(--color-purple);
+  color: white;
+  transform: translateY(-50%) scale(1.1);
+}
+
+.carousel-btn-prev {
+  left: 12px;
+}
+
+.carousel-btn-next {
+  right: 12px;
+}
+
+.carousel-dots {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px;
+  background: linear-gradient(135deg, var(--color-pink-light) 0%, var(--color-lavender-light) 100%);
+  border-bottom: 2px solid var(--color-purple);
+}
+
+.carousel-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: 2px solid var(--color-purple);
+  background: transparent;
+  cursor: pointer;
+  padding: 0;
+  transition: all 0.2s ease;
+}
+
+.carousel-dot:hover {
+  background: var(--color-lavender);
+}
+
+.carousel-dot.active {
+  background: var(--color-purple);
+  transform: scale(1.2);
+}
+
+/* Location Details */
+.location-details {
+  padding: 1.5rem;
+}
+
+.location-title {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--color-purple-dark);
+  margin-bottom: 0.25rem;
+  line-height: 1.3;
+}
+
+.location-address {
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  margin-bottom: 1rem;
+}
+
+.location-stats {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  padding: 0.75rem;
+  background: var(--color-lavender-light);
+  border-radius: 12px;
+}
+
+.location-stat {
+  flex: 1;
+  text-align: center;
+}
+
+.stat-value {
+  display: block;
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--color-purple-dark);
+  line-height: 1;
+}
+
+.stat-label {
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: var(--color-pink-hot);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.location-amenities {
+  list-style: none;
+  margin-bottom: 1.25rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.amenity-item {
+  background: linear-gradient(135deg, var(--color-pink-light) 0%, var(--color-lavender-light) 100%);
+  border: 1px solid var(--color-purple);
+  border-radius: 20px;
+  padding: 0.35rem 0.75rem;
+  font-size: 0.75rem;
+  color: var(--color-purple-dark);
+  font-weight: 500;
+}
+
+.location-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: linear-gradient(135deg, var(--color-pink-hot) 0%, var(--color-purple) 100%);
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 25px;
+  font-family: var(--font-display);
+  font-size: 0.9rem;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  box-shadow: 3px 3px 0 var(--color-purple-dark);
+}
+
+.location-link:hover {
+  transform: translateY(-2px);
+  box-shadow: 5px 5px 0 var(--color-purple-dark);
+}
+
+.location-link svg {
+  transition: transform 0.2s ease;
+}
+
+.location-link:hover svg {
+  transform: translate(2px, -2px);
+}
+
+/* ========================================
    COMING SOON PLACEHOLDER
    ======================================== */
 .coming-soon {
@@ -689,23 +986,45 @@
 /* ========================================
    RESPONSIVE DESIGN
    ======================================== */
+
+/* Tablet screens */
 @media (max-width: 768px) {
   .corner-sparkle {
     transform: scale(0.7);
   }
 
   .header {
-    padding: 0.875rem 1rem;
+    padding: 0.75rem 1rem;
   }
 
+  /* Horizontally scrollable nav on tablet */
   .nav {
-    gap: 0.25rem;
+    gap: 0.5rem;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    padding: 0.25rem 0;
+    justify-content: flex-start;
+  }
+
+  .nav::-webkit-scrollbar {
+    display: none;
+  }
+
+  .nav-item-wrapper {
+    flex-shrink: 0;
   }
 
   .nav-link {
-    font-size: 0.7rem;
-    padding: 0.4rem 0.6rem;
-    letter-spacing: 0.1em;
+    font-size: 0.75rem;
+    padding: 0.6rem 0.8rem;
+    letter-spacing: 0.08em;
+    /* Minimum touch target */
+    min-height: 44px;
+    display: flex;
+    align-items: center;
   }
 
   .nav-diamond {
@@ -713,12 +1032,20 @@
   }
 
   .section {
-    padding: 3rem 1.5rem;
+    padding: 4rem 1.5rem 3rem;
     min-height: auto;
   }
 
   .section-home {
-    min-height: 100vh;
+    min-height: calc(100vh - 60px);
+    padding-top: 2rem;
+  }
+
+  .section-flights,
+  .section-schedule,
+  .section-location,
+  .section-todos {
+    padding-top: 5rem;
   }
 
   .floating-sparkle {
@@ -731,6 +1058,7 @@
 
   .retro-window {
     transform: rotate(0deg);
+    width: 95%;
   }
 
   @keyframes windowFloat {
@@ -746,17 +1074,40 @@
     padding: 1.5rem 1rem;
   }
 
+  .countdown-container {
+    padding: 1rem;
+    width: 100%;
+  }
+
   .countdown {
-    gap: 0.5rem;
+    gap: 0.75rem;
+    justify-content: center;
   }
 
   .countdown-item {
-    min-width: 50px;
-    padding: 0.4rem 0.6rem;
+    min-width: 60px;
+    padding: 0.5rem 0.6rem;
+  }
+
+  .flights-container {
+    padding: 0 0.5rem;
+  }
+
+  .flights-tabs {
+    flex-wrap: wrap;
+  }
+
+  .flights-tab {
+    padding: 0.5rem 1rem;
+    font-size: 0.8rem;
+    border-radius: 10px 10px 0 0;
   }
 
   .flights-grid {
     grid-template-columns: 1fr;
+    gap: 1rem;
+    padding: 1.25rem;
+    border-radius: 0 10px 10px 10px;
   }
 
   .flights-setup {
@@ -766,8 +1117,33 @@
   .setup-instructions {
     font-size: 0.85rem;
   }
+
+  .coming-soon {
+    padding: 2.5rem 2rem;
+  }
+
+  /* Location section tablet */
+  .location-card {
+    max-width: 100%;
+    border-radius: 16px;
+    box-shadow: 6px 6px 0 var(--color-purple);
+  }
+
+  .carousel-btn {
+    width: 36px;
+    height: 36px;
+  }
+
+  .carousel-btn-prev {
+    left: 8px;
+  }
+
+  .carousel-btn-next {
+    right: 8px;
+  }
 }
 
+/* Mobile phones */
 @media (max-width: 480px) {
   .corner-sparkle {
     display: none;
@@ -777,23 +1153,336 @@
     display: none;
   }
 
+  .header {
+    padding: 0.5rem 0.75rem;
+  }
+
+  .nav {
+    gap: 0.25rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
   .nav-link {
-    font-size: 0.6rem;
-    padding: 0.35rem 0.45rem;
-    letter-spacing: 0.08em;
+    font-size: 0.65rem;
+    padding: 0.5rem 0.6rem;
+    letter-spacing: 0.05em;
+    min-height: 40px;
   }
 
   .section {
-    padding: 2.5rem 1rem;
+    padding: 3rem 1rem 2rem;
+  }
+
+  .section-home {
+    min-height: calc(100vh - 50px);
+    padding: 1.5rem 1rem;
+  }
+
+  .section-flights,
+  .section-schedule,
+  .section-location,
+  .section-todos {
+    padding-top: 4rem;
+  }
+
+  .section-header {
+    gap: 0.5rem;
+  }
+
+  .section-sparkle {
+    width: 20px;
+    height: 20px;
   }
 
   .section-title {
     font-size: 2rem;
   }
 
+  .section-subtitle {
+    font-size: 0.9rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .retro-window {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow:
+      5px 5px 0 var(--color-purple),
+      8px 8px 20px rgba(123, 95, 199, 0.2);
+  }
+
+  .window-header {
+    padding: 0.5rem 0.75rem;
+  }
+
+  .dot {
+    width: 10px;
+    height: 10px;
+  }
+
+  .window-content {
+    padding: 1.25rem 1rem;
+  }
+
+  .hero-content {
+    margin-bottom: 1.5rem;
+  }
+
+  .title-script {
+    font-size: 2.5rem;
+    text-shadow:
+      2px 2px 0 var(--color-pink),
+      3px 3px 0 rgba(155, 126, 217, 0.4);
+  }
+
+  .title-secondary {
+    font-size: 1.1rem;
+    letter-spacing: 0.1em;
+  }
+
+  .countdown-container {
+    padding: 0.75rem;
+    border-radius: 16px;
+  }
+
+  /* 2x2 grid layout for countdown on small screens */
+  .countdown {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.5rem;
+    width: 100%;
+  }
+
   .countdown-item {
-    min-width: 45px;
-    padding: 0.35rem 0.5rem;
+    min-width: unset;
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 10px;
+  }
+
+  .countdown-number {
+    font-size: 1.75rem;
+  }
+
+  .countdown-label {
+    font-size: 0.5rem;
+  }
+
+  .event-info {
+    margin-top: 1.5rem;
+  }
+
+  .event-date {
+    font-size: 0.9rem;
+  }
+
+  .event-hashtag {
+    font-size: 0.75rem;
+  }
+
+  .flights-container {
+    padding: 0;
+  }
+
+  .flights-tab {
+    padding: 0.4rem 0.7rem;
+    font-size: 0.65rem;
+    border-radius: 8px 8px 0 0;
+    border-width: 2px;
+  }
+
+  .tab-count {
+    padding: 0.1rem 0.35rem;
+    font-size: 0.6rem;
+  }
+
+  .flights-grid {
+    gap: 0.75rem;
+    padding: 1rem;
+    border-radius: 0 0 8px 8px;
+    border-width: 2px;
+    box-shadow: 3px 3px 0 var(--color-purple);
+  }
+
+  .flight-card {
+    border-radius: 12px;
+    box-shadow: 4px 4px 0 var(--color-purple);
+  }
+
+  .flight-card-header {
+    padding: 0.75rem;
+    gap: 0.5rem;
+  }
+
+  .flight-card-header svg {
+    width: 16px;
+    height: 16px;
+  }
+
+  .flight-name {
+    font-size: 1rem;
+  }
+
+  .flight-origin {
+    font-size: 0.75rem;
+    width: 100%;
+    margin-left: 0;
+    margin-top: 0.25rem;
+  }
+
+  .flight-details {
+    padding: 0.75rem;
+  }
+
+  .flight-section {
+    margin-bottom: 0.75rem;
+  }
+
+  .flight-section-title {
+    font-size: 0.7rem;
+    margin-bottom: 0.4rem;
+  }
+
+  .flight-row {
+    padding: 0.25rem 0;
+  }
+
+  .flight-label {
+    font-size: 0.7rem;
+  }
+
+  .flight-value {
+    font-size: 0.8rem;
+  }
+
+  .flights-setup {
+    padding: 1.25rem;
+    border-radius: 12px;
+  }
+
+  .setup-title {
+    font-size: 1.1rem;
+  }
+
+  .setup-instructions {
+    font-size: 0.8rem;
+    line-height: 1.7;
+  }
+
+  .flights-loading,
+  .flights-empty,
+  .flights-error {
+    padding: 2rem 1rem;
+  }
+
+  .coming-soon {
+    padding: 2rem 1.5rem;
+    border-radius: 12px;
+  }
+
+  .coming-soon p {
+    font-size: 1rem;
+  }
+
+  /* Location section mobile */
+  .location-card {
+    border-radius: 12px;
+    box-shadow: 4px 4px 0 var(--color-purple);
+  }
+
+  .carousel-btn {
+    width: 32px;
+    height: 32px;
+  }
+
+  .carousel-btn svg {
+    width: 18px;
+    height: 18px;
+  }
+
+  .carousel-btn-prev {
+    left: 6px;
+  }
+
+  .carousel-btn-next {
+    right: 6px;
+  }
+
+  .carousel-dots {
+    gap: 6px;
+    padding: 10px;
+  }
+
+  .carousel-dot {
+    width: 8px;
+    height: 8px;
+  }
+
+  .location-details {
+    padding: 1rem;
+  }
+
+  .location-title {
+    font-size: 1.1rem;
+  }
+
+  .location-address {
+    font-size: 0.85rem;
+  }
+
+  .location-stats {
+    padding: 0.6rem;
+    gap: 0.5rem;
+  }
+
+  .stat-value {
+    font-size: 1.25rem;
+  }
+
+  .stat-label {
+    font-size: 0.6rem;
+  }
+
+  .location-amenities {
+    gap: 0.4rem;
+  }
+
+  .amenity-item {
+    font-size: 0.7rem;
+    padding: 0.3rem 0.6rem;
+  }
+
+  .location-link {
+    width: 100%;
+    justify-content: center;
+    padding: 0.7rem 1.25rem;
+    font-size: 0.85rem;
+  }
+}
+
+/* Very small phones */
+@media (max-width: 360px) {
+  .nav {
+    gap: 0.15rem;
+  }
+
+  .nav-link {
+    font-size: 0.55rem;
+    padding: 0.4rem 0.5rem;
+    min-height: 36px;
+  }
+
+  .section-home {
+    padding: 1rem 0.75rem;
+  }
+
+  .title-script {
+    font-size: 2rem;
+  }
+
+  .title-secondary {
+    font-size: 0.95rem;
   }
 
   .countdown-number {
@@ -804,24 +1493,30 @@
     font-size: 0.45rem;
   }
 
-  .title-script {
-    font-size: 2.8rem;
+  .section-title {
+    font-size: 1.75rem;
+  }
+}
+
+/* Landscape orientation on mobile */
+@media (max-height: 500px) and (orientation: landscape) {
+  .section-home {
+    min-height: auto;
+    padding: 1rem;
   }
 
-  .title-secondary {
-    font-size: 1.2rem;
+  .retro-window {
+    max-width: 400px;
   }
 
-  .coming-soon {
-    padding: 2rem;
+  .countdown {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 0.5rem;
   }
 
-  .flight-card-header {
-    padding: 0.75rem;
-  }
-
-  .flight-details {
-    padding: 0.75rem;
+  .countdown-item {
+    min-width: 50px;
   }
 }
 
