@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://hannahsneden.github.io/laurens-bach",
+  "homepage": "https://hcsneden.github.io/laurens-bach",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
