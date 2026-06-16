@@ -1,19 +1,35 @@
-import { useState, useMemo } from 'react'
+import { useState, useEffect, useMemo } from 'react'
 import PropTypes from 'prop-types'
 import { Sparkle, PlaneIcon } from '../ui'
 
-/**
- * Parse a date/time string for sorting
- * Handles formats like "7/9 10:30am", "July 9, 2026 10:30 AM", etc.
- */
-function parseDateTime(dateTimeStr) {
-  if (!dateTimeStr) return new Date(9999, 11, 31) // Sort empty dates last
+const DAY_OFFSETS = {
+  wed: 0, weds: 0, wednesday: 0,
+  thu: 1, thur: 1, thurs: 1, thursday: 1,
+  fri: 2, friday: 2,
+  sat: 3, saturday: 3,
+  sun: 4, sunday: 4,
+}
 
-  // Try to parse the date string
+function parseDateTime(dateTimeStr) {
+  if (!dateTimeStr) return new Date(9999, 11, 31)
+
+  // Handle "Thurs at 6:40PM", "Sun at 1:45 PM", etc.
+  const dayAtMatch = dateTimeStr.match(/^(\w+)\s+at\s+(\d{1,2})(?::(\d{2}))?\s*(am|pm)/i)
+  if (dayAtMatch) {
+    const [, dayName, hours, minutes = '0', ampm] = dayAtMatch
+    const offset = DAY_OFFSETS[dayName.toLowerCase()]
+    if (offset !== undefined) {
+      let hour = parseInt(hours)
+      if (ampm.toLowerCase() === 'pm' && hour !== 12) hour += 12
+      if (ampm.toLowerCase() === 'am' && hour === 12) hour = 0
+      // Weekend starts Wed July 8, 2026
+      return new Date(2026, 6, 8 + offset, hour, parseInt(minutes))
+    }
+  }
+
   const parsed = Date.parse(dateTimeStr)
   if (!isNaN(parsed)) return new Date(parsed)
 
-  // Try common formats like "7/9 10:30am"
   const match = dateTimeStr.match(/(\d{1,2})\/(\d{1,2})\s*(\d{1,2}):?(\d{2})?\s*(am|pm)?/i)
   if (match) {
     const [, month, day, hours, minutes = '0', ampm] = match
@@ -26,9 +42,6 @@ function parseDateTime(dateTimeStr) {
   return new Date(9999, 11, 31)
 }
 
-/**
- * Flight card component
- */
 function FlightCard({ flight }) {
   return (
     <div className="flight-card">
@@ -38,7 +51,6 @@ function FlightCard({ flight }) {
         {flight.origin && <span className="flight-origin">from {flight.origin}</span>}
       </div>
       <div className="flight-details">
-        {/* Landing Info */}
         <div className="flight-section">
           <span className="flight-section-title">Landing</span>
           {flight.landingDateTime && (
@@ -55,7 +67,6 @@ function FlightCard({ flight }) {
           )}
         </div>
 
-        {/* Departing Info */}
         {(flight.departingDateTime || flight.departingFlight) && (
           <div className="flight-section">
             <span className="flight-section-title">Departing</span>
@@ -91,38 +102,23 @@ FlightCard.propTypes = {
   }).isRequired
 }
 
-/**
- * Flights section component with airport tabs
- */
 export function FlightsSection({ flights, loading, error }) {
   const [activeTab, setActiveTab] = useState(null)
 
-  // Group flights by airport and sort by time
   const { airports, flightsByAirport } = useMemo(() => {
-    if (!flights || flights.length === 0) {
-      return { airports: [], flightsByAirport: {} }
-    }
+    if (!flights || flights.length === 0) return { airports: [], flightsByAirport: {} }
 
     const grouped = {}
-
     flights.forEach(flight => {
       const airport = flight.landingAirport?.trim() || 'Other'
-      if (!grouped[airport]) {
-        grouped[airport] = []
-      }
+      if (!grouped[airport]) grouped[airport] = []
       grouped[airport].push(flight)
     })
 
-    // Sort flights within each airport by landing time
     Object.keys(grouped).forEach(airport => {
-      grouped[airport].sort((a, b) => {
-        const timeA = parseDateTime(a.landingDateTime)
-        const timeB = parseDateTime(b.landingDateTime)
-        return timeA - timeB
-      })
+      grouped[airport].sort((a, b) => parseDateTime(a.landingDateTime) - parseDateTime(b.landingDateTime))
     })
 
-    // Get sorted airport list (alphabetically, but "Other" last)
     const airportList = Object.keys(grouped).sort((a, b) => {
       if (a === 'Other') return 1
       if (b === 'Other') return -1
@@ -132,11 +128,8 @@ export function FlightsSection({ flights, loading, error }) {
     return { airports: airportList, flightsByAirport: grouped }
   }, [flights])
 
-  // Set initial active tab
-  useMemo(() => {
-    if (airports.length > 0 && activeTab === null) {
-      setActiveTab(airports[0])
-    }
+  useEffect(() => {
+    if (airports.length > 0 && activeTab === null) setActiveTab(airports[0])
   }, [airports, activeTab])
 
   const currentFlights = activeTab ? flightsByAirport[activeTab] || [] : []
@@ -178,7 +171,6 @@ export function FlightsSection({ flights, loading, error }) {
           </div>
         ) : (
           <div className="flights-file">
-            {/* Airport Tabs */}
             <div className="flights-tabs">
               {airports.map(airport => (
                 <button
@@ -191,8 +183,6 @@ export function FlightsSection({ flights, loading, error }) {
                 </button>
               ))}
             </div>
-
-            {/* Flight Cards */}
             <div className="flights-grid">
               {currentFlights.map((flight, index) => (
                 <FlightCard key={index} flight={flight} />

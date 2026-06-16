@@ -2,9 +2,6 @@ import { useState } from 'react'
 import PropTypes from 'prop-types'
 import { Sparkle } from '../ui'
 
-/**
- * Image carousel component
- */
 function ImageCarousel({ images, alt }) {
   const [currentIndex, setCurrentIndex] = useState(0)
 
@@ -74,9 +71,6 @@ ImageCarousel.propTypes = {
   alt: PropTypes.string.isRequired
 }
 
-/**
- * Location section component
- */
 export function LocationSection({ listing }) {
   return (
     <section id="location" className="section section-location">

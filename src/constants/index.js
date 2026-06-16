@@ -7,7 +7,7 @@ export const NAV_ITEMS = [
   { name: 'FLIGHTS', href: '#flights' },
   { name: 'SCHEDULE', href: '#schedule' },
   { name: 'LOCATION', href: '#location' },
-  { name: 'TO-DOS', href: '#todos' }
+  { name: 'Qs', href: '#questions' }
 ]
 
 export const AIRBNB_LISTING = {
@@ -17,13 +17,6 @@ export const AIRBNB_LISTING = {
   guests: 10,
   bedrooms: 4,
   bathrooms: "4.5",
-  amenities: [
-    "Lakefront with pier access",
-    "Private heated pool (May-Sep)",
-    "Hot tub (year-round)",
-    "Game room with wet bar",
-    "4,400 sq ft on 2 acres"
-  ],
   images: [
     "https://a0.muscache.com/im/pictures/5708e144-415c-4aaa-b40f-ea77d3b4b14d.jpg",
     "https://a0.muscache.com/im/pictures/1d70de96-5bad-4f4e-bd55-c17a89408e71.jpg",

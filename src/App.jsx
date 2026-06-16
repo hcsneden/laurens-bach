@@ -1,13 +1,21 @@
+import { useEffect } from 'react'
 import './App.css'
 import { Sparkle } from './components/ui'
 import { Header } from './components/layout'
-import { HomeSection, FlightsSection, LocationSection, PlaceholderSection } from './components/sections'
+import { HomeSection, FlightsSection, LocationSection, ScheduleSection, RsvpSection } from './components/sections'
 import { useCountdown, useFlights } from './hooks'
 import { TARGET_DATE, GOOGLE_SHEET_CSV_URL, NAV_ITEMS, AIRBNB_LISTING } from './constants'
 
 function App() {
   const timeLeft = useCountdown(TARGET_DATE)
   const { flights, loading: flightsLoading, error: flightsError } = useFlights(GOOGLE_SHEET_CSV_URL)
+
+  useEffect(() => {
+    const { hash } = window.location
+    if (!hash) return
+    const el = document.querySelector(hash)
+    if (el) el.scrollIntoView({ behavior: 'instant' })
+  }, [])
 
   return (
     <div className="app">
@@ -28,21 +36,11 @@ function App() {
           error={flightsError}
         />
 
-        <PlaceholderSection
-          id="schedule"
-          className="section-schedule"
-          title="Schedule"
-          subtitle="What's the plan?"
-        />
+        <ScheduleSection />
 
         <LocationSection listing={AIRBNB_LISTING} />
 
-        <PlaceholderSection
-          id="todos"
-          className="section-todos"
-          title="To-Dos"
-          subtitle="What to bring & do before the trip"
-        />
+        <RsvpSection />
       </main>
       
     </div>

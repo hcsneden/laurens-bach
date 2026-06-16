@@ -1,0 +1,2500 @@
+[
+    {
+        "id": "106524613",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Richard Bard",
+        "address": {
+            "street_address_1": "12520 Southwest 106th Street",
+            "street_address_2": null,
+            "city": "Miami",
+            "state": "FL",
+            "postal_code": "33186",
+            "country": "US"
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/lt7c_cWWAeqRQjmuP-Jyz0bMomNPXq_pApzKmZb4wLU/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82MmMz/NWUxNy1lYTYwLTRi/YmItYWEyYy00YWYz/MTUxN2Y5MDQuanBn.jpg",
+                "url": "https://img.companycam.com/lt7c_cWWAeqRQjmuP-Jyz0bMomNPXq_pApzKmZb4wLU/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82MmMz/NWUxNy1lYTYwLTRi/YmItYWEyYy00YWYz/MTUxN2Y5MDQuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/eNxjZU0IWm30nOipE_eEZ0yOxzSgwGh5IYkQiuuCNHA/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82MmMz/NWUxNy1lYTYwLTRi/YmItYWEyYy00YWYz/MTUxN2Y5MDQuanBn.jpg",
+                "url": "https://img.companycam.com/eNxjZU0IWm30nOipE_eEZ0yOxzSgwGh5IYkQiuuCNHA/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82MmMz/NWUxNy1lYTYwLTRi/YmItYWEyYy00YWYz/MTUxN2Y5MDQuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/BGgQX4ZKMRTpvqjZ-3TqYGai7MLvdUQtSTiSG3B3pC8/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82MmMz/NWUxNy1lYTYwLTRi/YmItYWEyYy00YWYz/MTUxN2Y5MDQuanBn.jpg",
+                "url": "https://img.companycam.com/BGgQX4ZKMRTpvqjZ-3TqYGai7MLvdUQtSTiSG3B3pC8/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82MmMz/NWUxNy1lYTYwLTRi/YmItYWEyYy00YWYz/MTUxN2Y5MDQuanBn.jpg"
+            }
+        ],
+        "slug": "mWS7jRcq5jL1BiPD",
+        "project_url": "https://app.companycam.com/projects/106524613",
+        "public_url": "https://app.companycam.com/timeline/mWS7jRcq5jL1BiPD",
+        "coordinates": {
+            "lat": 25.6688805,
+            "lon": -80.3986562
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1780146823,
+        "updated_at": 1780151675,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/mWS7jRcq5jL1BiPD",
+        "photo_count": 55,
+        "capture_photo_deeplink": "ccam://camera/106524613/UmljaGFyZCBCYXJk",
+        "integrations": [
+            {
+                "type": "Roofr Inc",
+                "relation_id": null
+            }
+        ],
+        "notepad": null
+    },
+    {
+        "id": "106515915",
+        "company_id": "478798",
+        "creator_id": "2386328",
+        "creator_type": "User",
+        "creator_name": "Anaiz Rocha",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Daniel Bohorquez",
+        "address": {
+            "street_address_1": "3101 sw 25th ter miami fl 33133",
+            "street_address_2": null,
+            "city": null,
+            "state": null,
+            "postal_code": null,
+            "country": "US"
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/7VyWhyLalVPa0m8QiEUOu7xiKXztOJ61tLfGQl_yUEw/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8zZWFk/MWM4Ny1iNzAyLTQ1/NDEtOTg1Ny1lNzNh/YjEzNjY5OGMuanBn.jpg",
+                "url": "https://img.companycam.com/7VyWhyLalVPa0m8QiEUOu7xiKXztOJ61tLfGQl_yUEw/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8zZWFk/MWM4Ny1iNzAyLTQ1/NDEtOTg1Ny1lNzNh/YjEzNjY5OGMuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/Hsx1oQTLPkWvN6wwLqis12GXa6AODCrfBnL45qK6D2U/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8zZWFk/MWM4Ny1iNzAyLTQ1/NDEtOTg1Ny1lNzNh/YjEzNjY5OGMuanBn.jpg",
+                "url": "https://img.companycam.com/Hsx1oQTLPkWvN6wwLqis12GXa6AODCrfBnL45qK6D2U/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8zZWFk/MWM4Ny1iNzAyLTQ1/NDEtOTg1Ny1lNzNh/YjEzNjY5OGMuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/ZJL4GHl5vkCrowg9GtdgBcGWMDpUsXTUttoGJ2OPWNY/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8zZWFk/MWM4Ny1iNzAyLTQ1/NDEtOTg1Ny1lNzNh/YjEzNjY5OGMuanBn.jpg",
+                "url": "https://img.companycam.com/ZJL4GHl5vkCrowg9GtdgBcGWMDpUsXTUttoGJ2OPWNY/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8zZWFk/MWM4Ny1iNzAyLTQ1/NDEtOTg1Ny1lNzNh/YjEzNjY5OGMuanBn.jpg"
+            }
+        ],
+        "slug": "YXTa9NDB3DwV6i6B",
+        "project_url": "https://app.companycam.com/projects/106515915",
+        "public_url": "https://app.companycam.com/timeline/YXTa9NDB3DwV6i6B",
+        "coordinates": {
+            "lat": 25.48977281841844,
+            "lon": -80.43082379158027
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1780099642,
+        "updated_at": 1780166385,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/YXTa9NDB3DwV6i6B",
+        "photo_count": 5,
+        "capture_photo_deeplink": "ccam://camera/106515915/RGFuaWVsIEJvaG9ycXVleg%3D%3D",
+        "integrations": [],
+        "notepad": "\u003cdiv\u003eRemplazar facia en dos áreas del techo plano 15 pies aproximadamente\u0026nbsp;\u003c/div\u003e\u003cdiv\u003ePoner papel en un área del techo plano para quitar un poco la acumulación de agua un área de 5 x 7\u0026nbsp;\u003c/div\u003e\u003cdiv\u003ePintar el techo plano completo con 100% cilicon el techo tiene 4 escuadras y medias\u0026nbsp;\u003c/div\u003e\u003cdiv\u003eMano de obra y materiales $ 2320\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003e😎 Javier lago 5/29\u003c/div\u003e"
+    },
+    {
+        "id": "106506002",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Danielle Wright",
+        "address": {
+            "street_address_1": "420 West 30th Street",
+            "street_address_2": null,
+            "city": "Miami Beach",
+            "state": "FL",
+            "postal_code": "33140",
+            "country": "US"
+        },
+        "feature_image": [],
+        "slug": "VearMTzepbbUoanB",
+        "project_url": "https://app.companycam.com/projects/106506002",
+        "public_url": "https://app.companycam.com/timeline/VearMTzepbbUoanB",
+        "coordinates": {
+            "lat": 25.8062956,
+            "lon": -80.12939949999999
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1780087783,
+        "updated_at": 1780087783,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/VearMTzepbbUoanB",
+        "photo_count": 0,
+        "capture_photo_deeplink": "ccam://camera/106506002/RGFuaWVsbGUgV3JpZ2h0",
+        "integrations": [
+            {
+                "type": "Roofr Inc",
+                "relation_id": null
+            }
+        ],
+        "notepad": null
+    },
+    {
+        "id": "106505650",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Caridad Alfonso",
+        "address": {
+            "street_address_1": "10100 East Calusa Club Drive",
+            "street_address_2": null,
+            "city": "Miami",
+            "state": "FL",
+            "postal_code": "33186",
+            "country": "US"
+        },
+        "feature_image": [],
+        "slug": "KrQVqFzWc2f1jgEW",
+        "project_url": "https://app.companycam.com/projects/106505650",
+        "public_url": "https://app.companycam.com/timeline/KrQVqFzWc2f1jgEW",
+        "coordinates": {
+            "lat": 25.6760258,
+            "lon": -80.4056512
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1780087573,
+        "updated_at": 1780087573,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/KrQVqFzWc2f1jgEW",
+        "photo_count": 0,
+        "capture_photo_deeplink": "ccam://camera/106505650/Q2FyaWRhZCBBbGZvbnNv",
+        "integrations": [
+            {
+                "type": "Roofr Inc",
+                "relation_id": null
+            }
+        ],
+        "notepad": null
+    },
+    {
+        "id": "39306642",
+        "company_id": "478798",
+        "creator_id": "2463420",
+        "creator_type": "User",
+        "creator_name": "Raul Sanchez",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "David Hartsock",
+        "address": {
+            "street_address_1": "19290 SW 190th St",
+            "street_address_2": null,
+            "city": "Miami",
+            "state": "FL",
+            "postal_code": "33187",
+            "country": null
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/GqQejdfVuusKaX86EONTstgbJGNH-KU1c0XNxVK8SzY/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9hOGZm/MzUzMC04ZmI3LTQ3/NjUtOWEyNS0yZjI4/Y2I5NjM3MGQuanBn.jpg",
+                "url": "https://img.companycam.com/GqQejdfVuusKaX86EONTstgbJGNH-KU1c0XNxVK8SzY/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9hOGZm/MzUzMC04ZmI3LTQ3/NjUtOWEyNS0yZjI4/Y2I5NjM3MGQuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/qDqTk1oxlUhasbEbDVFdlvG17ys3Vq5mF-OrHg24iv8/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9hOGZm/MzUzMC04ZmI3LTQ3/NjUtOWEyNS0yZjI4/Y2I5NjM3MGQuanBn.jpg",
+                "url": "https://img.companycam.com/qDqTk1oxlUhasbEbDVFdlvG17ys3Vq5mF-OrHg24iv8/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9hOGZm/MzUzMC04ZmI3LTQ3/NjUtOWEyNS0yZjI4/Y2I5NjM3MGQuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/vH2EZCEOUJS-MZZDiFUY-Gk8AmL1bjCLgeVfRHIMZis/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9hOGZm/MzUzMC04ZmI3LTQ3/NjUtOWEyNS0yZjI4/Y2I5NjM3MGQuanBn.jpg",
+                "url": "https://img.companycam.com/vH2EZCEOUJS-MZZDiFUY-Gk8AmL1bjCLgeVfRHIMZis/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9hOGZm/MzUzMC04ZmI3LTQ3/NjUtOWEyNS0yZjI4/Y2I5NjM3MGQuanBn.jpg"
+            }
+        ],
+        "slug": "ZvZzfeAtXTysuc9o",
+        "project_url": "https://app.companycam.com/projects/39306642",
+        "public_url": "https://app.companycam.com/timeline/ZvZzfeAtXTysuc9o",
+        "coordinates": {
+            "lat": 25.5884157,
+            "lon": -80.5044451
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1652812435,
+        "updated_at": 1780074655,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/ZvZzfeAtXTysuc9o",
+        "photo_count": 43,
+        "capture_photo_deeplink": "ccam://camera/39306642/RGF2aWQgSGFydHNvY2s%3D",
+        "integrations": [],
+        "notepad": null
+    },
+    {
+        "id": "105873978",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "1201 Northeast 98th Street, Miami Shores, FL 33138",
+        "address": {
+            "street_address_1": "1201 Northeast 98th Street",
+            "street_address_2": null,
+            "city": "Miami Shores",
+            "state": "FL",
+            "postal_code": "33138",
+            "country": "US"
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/rgoCLviiUTmyCXy9OQG6M1raHJlUsktD2r93T7lDJBo/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8xODM0/N2Y0Yy05OGQ3LTRm/ZWYtYmNiZS1lNjQ5/NDY1MGE5NzIuanBn.jpg",
+                "url": "https://img.companycam.com/rgoCLviiUTmyCXy9OQG6M1raHJlUsktD2r93T7lDJBo/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8xODM0/N2Y0Yy05OGQ3LTRm/ZWYtYmNiZS1lNjQ5/NDY1MGE5NzIuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/YuCgOz1yKlD45SCErMUOiJUBm9iFKY--Nk0L-n3Dpuc/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8xODM0/N2Y0Yy05OGQ3LTRm/ZWYtYmNiZS1lNjQ5/NDY1MGE5NzIuanBn.jpg",
+                "url": "https://img.companycam.com/YuCgOz1yKlD45SCErMUOiJUBm9iFKY--Nk0L-n3Dpuc/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8xODM0/N2Y0Yy05OGQ3LTRm/ZWYtYmNiZS1lNjQ5/NDY1MGE5NzIuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/GFPtivBhMzEUEr7IRkW9vqpdW9nsflHeEpgWEZM9lek/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8xODM0/N2Y0Yy05OGQ3LTRm/ZWYtYmNiZS1lNjQ5/NDY1MGE5NzIuanBn.jpg",
+                "url": "https://img.companycam.com/GFPtivBhMzEUEr7IRkW9vqpdW9nsflHeEpgWEZM9lek/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8xODM0/N2Y0Yy05OGQ3LTRm/ZWYtYmNiZS1lNjQ5/NDY1MGE5NzIuanBn.jpg"
+            }
+        ],
+        "slug": "R6Kamo1SDdBsuHQE",
+        "project_url": "https://app.companycam.com/projects/105873978",
+        "public_url": "https://app.companycam.com/timeline/R6Kamo1SDdBsuHQE",
+        "coordinates": {
+            "lat": 25.8660308,
+            "lon": -80.1735724
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779321018,
+        "updated_at": 1780074578,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/R6Kamo1SDdBsuHQE",
+        "photo_count": 25,
+        "capture_photo_deeplink": "ccam://camera/105873978/MTIwMSBOb3J0aGVhc3QgOTh0aCBTdHJlZXQsIE1pYW1pIFNob3JlcywgRkwgMzMxMzg%3D",
+        "integrations": [
+            {
+                "type": "Roofr Inc",
+                "relation_id": null
+            }
+        ],
+        "notepad": null
+    },
+    {
+        "id": "34120542",
+        "company_id": "478798",
+        "creator_id": "2645931",
+        "creator_type": "User",
+        "creator_name": "Walter Caniz",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Ben Carter",
+        "address": {
+            "street_address_1": "1245 Ortega Ave",
+            "street_address_2": null,
+            "city": "Coral Gables",
+            "state": "FL",
+            "postal_code": "33134",
+            "country": null
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/uB3jGURveP1k_J84QrcoLg2TGlAJUuYM-Ovp1Ml42Is/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82MTBj/MzVhNi04MTRkLTRm/ZTMtYTNhYi01NmNl/MjJkMWNmMTUuanBn.jpg",
+                "url": "https://img.companycam.com/uB3jGURveP1k_J84QrcoLg2TGlAJUuYM-Ovp1Ml42Is/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82MTBj/MzVhNi04MTRkLTRm/ZTMtYTNhYi01NmNl/MjJkMWNmMTUuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/k5Sq385Da7cmkAMRrWT1hOiu9O3ZPMQzJ6tHcLcphJA/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82MTBj/MzVhNi04MTRkLTRm/ZTMtYTNhYi01NmNl/MjJkMWNmMTUuanBn.jpg",
+                "url": "https://img.companycam.com/k5Sq385Da7cmkAMRrWT1hOiu9O3ZPMQzJ6tHcLcphJA/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82MTBj/MzVhNi04MTRkLTRm/ZTMtYTNhYi01NmNl/MjJkMWNmMTUuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/KBYNZwGGuunZxIpeMV7EGcITw_WRQsCJCVKSRyufqJc/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82MTBj/MzVhNi04MTRkLTRm/ZTMtYTNhYi01NmNl/MjJkMWNmMTUuanBn.jpg",
+                "url": "https://img.companycam.com/KBYNZwGGuunZxIpeMV7EGcITw_WRQsCJCVKSRyufqJc/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82MTBj/MzVhNi04MTRkLTRm/ZTMtYTNhYi01NmNl/MjJkMWNmMTUuanBn.jpg"
+            }
+        ],
+        "slug": "iBBUW8M6XiLQXEPo",
+        "project_url": "https://app.companycam.com/projects/34120542",
+        "public_url": "https://app.companycam.com/timeline/iBBUW8M6XiLQXEPo",
+        "coordinates": {
+            "lat": 25.758336608023303,
+            "lon": -80.28094774112105
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1631713620,
+        "updated_at": 1780100479,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/iBBUW8M6XiLQXEPo",
+        "photo_count": 73,
+        "capture_photo_deeplink": "ccam://camera/34120542/QmVuIENhcnRlcg%3D%3D",
+        "integrations": [],
+        "notepad": null
+    },
+    {
+        "id": "106450502",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "3612 Southwest 113th Court, Miami, FL 33165",
+        "address": {
+            "street_address_1": "3612 Southwest 113th Court",
+            "street_address_2": null,
+            "city": "Miami",
+            "state": "FL",
+            "postal_code": "33165",
+            "country": "US"
+        },
+        "feature_image": [],
+        "slug": "ncm3LB72ZTKWB1zv",
+        "project_url": "https://app.companycam.com/projects/106450502",
+        "public_url": "https://app.companycam.com/timeline/ncm3LB72ZTKWB1zv",
+        "coordinates": {
+            "lat": 25.7354198,
+            "lon": -80.3785434
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1780063752,
+        "updated_at": 1780063752,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/ncm3LB72ZTKWB1zv",
+        "photo_count": 0,
+        "capture_photo_deeplink": "ccam://camera/106450502/MzYxMiBTb3V0aHdlc3QgMTEzdGggQ291cnQsIE1pYW1pLCBGTCAzMzE2NQ%3D%3D",
+        "integrations": [
+            {
+                "type": "Roofr Inc",
+                "relation_id": null
+            }
+        ],
+        "notepad": null
+    },
+    {
+        "id": "106449910",
+        "company_id": "478798",
+        "creator_id": "2386328",
+        "creator_type": "User",
+        "creator_name": "Anaiz Rocha",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Ivan Vargas ",
+        "address": {
+            "street_address_1": "3612 SW 113th Ct",
+            "street_address_2": null,
+            "city": "Miami",
+            "state": "FL",
+            "postal_code": "33165",
+            "country": "US"
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/7xNA1D1F3XsQUgZ3rziCr5t2I_TKNsXFMw1m_IVqa8c/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9hMjNh/NGNkMi03MjU0LTQz/OWUtYWNkNi0wNzI0/MzEwNmIwNjIuanBn.jpg",
+                "url": "https://img.companycam.com/7xNA1D1F3XsQUgZ3rziCr5t2I_TKNsXFMw1m_IVqa8c/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9hMjNh/NGNkMi03MjU0LTQz/OWUtYWNkNi0wNzI0/MzEwNmIwNjIuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/nHS57D8rZFRfO8dNC3E0g73VH6LFqizMoa4qMG4sZ9k/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9hMjNh/NGNkMi03MjU0LTQz/OWUtYWNkNi0wNzI0/MzEwNmIwNjIuanBn.jpg",
+                "url": "https://img.companycam.com/nHS57D8rZFRfO8dNC3E0g73VH6LFqizMoa4qMG4sZ9k/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9hMjNh/NGNkMi03MjU0LTQz/OWUtYWNkNi0wNzI0/MzEwNmIwNjIuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/A53sAv9G0-ZorL4VBBER2x-TW1uDuHP1vvFEMrYu4gc/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9hMjNh/NGNkMi03MjU0LTQz/OWUtYWNkNi0wNzI0/MzEwNmIwNjIuanBn.jpg",
+                "url": "https://img.companycam.com/A53sAv9G0-ZorL4VBBER2x-TW1uDuHP1vvFEMrYu4gc/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9hMjNh/NGNkMi03MjU0LTQz/OWUtYWNkNi0wNzI0/MzEwNmIwNjIuanBn.jpg"
+            }
+        ],
+        "slug": "Aw2BMkmTJ95oZ9oP",
+        "project_url": "https://app.companycam.com/projects/106449910",
+        "public_url": "https://app.companycam.com/timeline/Aw2BMkmTJ95oZ9oP",
+        "coordinates": {
+            "lat": 25.735406946950874,
+            "lon": -80.37856388837099
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1780063513,
+        "updated_at": 1780063661,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/Aw2BMkmTJ95oZ9oP",
+        "photo_count": 6,
+        "capture_photo_deeplink": "ccam://camera/106449910/SXZhbiBWYXJnYXMg",
+        "integrations": [],
+        "notepad": null
+    },
+    {
+        "id": "105819039",
+        "company_id": "478798",
+        "creator_id": "2386328",
+        "creator_type": "User",
+        "creator_name": "Anaiz Rocha",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Rene Perez ",
+        "address": {
+            "street_address_1": "13750 SW 75th St",
+            "street_address_2": null,
+            "city": "Miami",
+            "state": "FL",
+            "postal_code": "33183",
+            "country": "US"
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/v_nSRVjcDUF1gKhMb7Fx0_hRL9f61UT7mbfEmg1oh8g/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8wMmRk/M2M5YS0xM2Q2LTQx/NWItOWQwZi1iNzFj/NTNlODg1MTQuanBn.jpg",
+                "url": "https://img.companycam.com/v_nSRVjcDUF1gKhMb7Fx0_hRL9f61UT7mbfEmg1oh8g/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8wMmRk/M2M5YS0xM2Q2LTQx/NWItOWQwZi1iNzFj/NTNlODg1MTQuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/KpYdtE1gfmt1SxEMvd3VcDHqHgvoe0cPFKjanlsLsFY/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8wMmRk/M2M5YS0xM2Q2LTQx/NWItOWQwZi1iNzFj/NTNlODg1MTQuanBn.jpg",
+                "url": "https://img.companycam.com/KpYdtE1gfmt1SxEMvd3VcDHqHgvoe0cPFKjanlsLsFY/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8wMmRk/M2M5YS0xM2Q2LTQx/NWItOWQwZi1iNzFj/NTNlODg1MTQuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/SASW5tv1k-bKzO4XFleoVE5H5GU8XTSYLxN-M1jdjpc/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8wMmRk/M2M5YS0xM2Q2LTQx/NWItOWQwZi1iNzFj/NTNlODg1MTQuanBn.jpg",
+                "url": "https://img.companycam.com/SASW5tv1k-bKzO4XFleoVE5H5GU8XTSYLxN-M1jdjpc/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8wMmRk/M2M5YS0xM2Q2LTQx/NWItOWQwZi1iNzFj/NTNlODg1MTQuanBn.jpg"
+            }
+        ],
+        "slug": "9Bs6AnecABDYmNxT",
+        "project_url": "https://app.companycam.com/projects/105819039",
+        "public_url": "https://app.companycam.com/timeline/9Bs6AnecABDYmNxT",
+        "coordinates": {
+            "lat": 25.695135459252292,
+            "lon": -80.41610676795244
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779293320,
+        "updated_at": 1780074164,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/9Bs6AnecABDYmNxT",
+        "photo_count": 42,
+        "capture_photo_deeplink": "ccam://camera/105819039/UmVuZSBQZXJleiA%3D",
+        "integrations": [],
+        "notepad": "\u003cp\u003eWORK SCOPE\u0026nbsp;\u003c/p\u003e\u003cp\u003e45 tiles\u0026nbsp;\u003c/p\u003e\u003cp\u003eLflashing repair 4x4\u003c/p\u003e\u003cp\u003eAdd cement on all areas missing\u0026nbsp;\u003c/p\u003e"
+    },
+    {
+        "id": "104933449",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Armando Ruiz HDZ SHINGLE SUNSET BRICK",
+        "address": {
+            "street_address_1": "4271 Southwest 137th Court",
+            "street_address_2": null,
+            "city": "Miami",
+            "state": "FL",
+            "postal_code": "33175",
+            "country": "US"
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/yClYVcsR_E3OWuHKBaJ24fKpns_DV9OyOSWqQu8-Rdc/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9iOTc0/Y2JhZi01YmMxLTQy/YmMtYmRiYy1kOWE4/ODZmNGUwZjYuanBn.jpg",
+                "url": "https://img.companycam.com/yClYVcsR_E3OWuHKBaJ24fKpns_DV9OyOSWqQu8-Rdc/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9iOTc0/Y2JhZi01YmMxLTQy/YmMtYmRiYy1kOWE4/ODZmNGUwZjYuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/lLJ7IG-Vs4ftGQmv_iJ8zyldkgw4wen_LKU2PT9Ni7Q/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9iOTc0/Y2JhZi01YmMxLTQy/YmMtYmRiYy1kOWE4/ODZmNGUwZjYuanBn.jpg",
+                "url": "https://img.companycam.com/lLJ7IG-Vs4ftGQmv_iJ8zyldkgw4wen_LKU2PT9Ni7Q/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9iOTc0/Y2JhZi01YmMxLTQy/YmMtYmRiYy1kOWE4/ODZmNGUwZjYuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/vNmfbeHmCO-va7PFVHQSxOG_qlvBk7_Gfdf1EWTfeSM/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9iOTc0/Y2JhZi01YmMxLTQy/YmMtYmRiYy1kOWE4/ODZmNGUwZjYuanBn.jpg",
+                "url": "https://img.companycam.com/vNmfbeHmCO-va7PFVHQSxOG_qlvBk7_Gfdf1EWTfeSM/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9iOÏTc0/Y2JhZi01YmMxLTQy/YmMtYmRiYy1kOWE4/ODZmNGUwZjYuanBn.jpg"
+            }
+        ],
+        "slug": "oJzzo5nKa9edcAwT",
+        "project_url": "https://app.companycam.com/projects/104933449",
+        "public_url": "https://app.companycam.com/timeline/oJzzo5nKa9edcAwT",
+        "coordinates": {
+            "lat": 25.7262013,
+            "lon": -80.41609150000001
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1778194076,
+        "updated_at": 1780048578,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/oJzzo5nKa9edcAwT",
+        "photo_count": 91,
+        "capture_photo_deeplink": "ccam://camera/104933449/QXJtYW5kbyBSdWl6IEhEWiBTSElOR0xFIFNVTlNFVCBCUklDSw%3D%3D",
+        "integrations": [
+            {
+                "type": "Roofr Inc",
+                "relation_id": null
+            }
+        ],
+        "notepad": null
+    },
+    {
+        "id": "106402120",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "14850 Southwest 144th Terrace, Miami, FL 33196",
+        "address": {
+            "street_address_1": "14850 Southwest 144th Terrace",
+            "street_address_2": null,
+            "city": "Miami",
+            "state": "FL",
+            "postal_code": "33196",
+            "country": "US"
+        },
+        "feature_image": [],
+        "slug": "vzYhmmJHRX3UKzUW",
+        "project_url": "https://app.companycam.com/projects/106402120",
+        "public_url": "https://app.companycam.com/timeline/vzYhmmJHRX3UKzUW",
+        "coordinates": {
+            "lat": 25.6323554,
+            "lon": -80.4342355
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779996612,
+        "updated_at": 1779996612,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/vzYhmmJHRX3UKzUW",
+        "photo_count": 0,
+        "capture_photo_deeplink": "ccam://camera/106402120/MTQ4NTAgU291dGh3ZXN0IDE0NHRoIFRlcnJhY2UsIE1pYW1pLCBGTCAzMzE5Ng%3D%3D",
+        "integrations": [
+            {
+                "type": "Roofr Inc",
+                "relation_id": null
+            }
+        ],
+        "notepad": null
+    },
+    {
+        "id": "106377315",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Jesus Umana",
+        "address": {
+            "street_address_1": "9016 Southwest 215th Terrace",
+            "street_address_2": null,
+            "city": "Cutler Bay",
+            "state": "FL",
+            "postal_code": "33189",
+            "country": "US"
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/ad49Ye4wSns0u1hPpWyIuvIT99SLeAFrvBwO7eoeic0/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8xMmQ3/OGEwZi03MTM0LTRm/NWUtODA4ZS03NDJm/OGViODQ3NjAuanBn.jpg",
+                "url": "https://img.companycam.com/ad49Ye4wSns0u1hPpWyIuvIT99SLeAFrvBwO7eoeic0/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8xMmQ3/OGEwZi03MTM0LTRm/NWUtODA4ZS03NDJm/OGViODQ3NjAuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/IBbCMr_nQmFaSeuFfflSwfTpFVnvVMHvYKB-Se_MSOc/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8xMmQ3/OGEwZi03MTM0LTRm/NWUtODA4ZS03NDJm/OGViODQ3NjAuanBn.jpg",
+                "url": "https://img.companycam.com/IBbCMr_nQmFaSeuFfflSwfTpFVnvVMHvYKB-Se_MSOc/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8xMmQ3/OGEwZi03MTM0LTRm/NWUtODA4ZS03NDJm/OGViODQ3NjAuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/USX6DqOx73fYLRT2IlWU8pl4Z9pNv0dBqfVco_3UwUY/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8xMmQ3/OGEwZi03MTM0LTRm/NWUtODA4ZS03NDJm/OGViODQ3NjAuanBn.jpg",
+                "url": "https://img.companycam.com/USX6DqOx73fYLRT2IlWU8pl4Z9pNv0dBqfVco_3UwUY/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8xMmQ3/OGEwZi03MTM0LTRm/NWUtODA4ZS03NDJm/OGViODQ3NjAuanBn.jpg"
+            }
+        ],
+        "slug": "3ReJjCUywSPNbgxZ",
+        "project_url": "https://app.companycam.com/projects/106377315",
+        "public_url": "https://app.companycam.com/timeline/3ReJjCUywSPNbgxZ",
+        "coordinates": {
+            "lat": 25.564125400000002,
+            "lon": -80.33829589999999
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779987230,
+        "updated_at": 1779992778,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/3ReJjCUywSPNbgxZ",
+        "photo_count": 8,
+        "capture_photo_deeplink": "ccam://camera/106377315/SmVzdXMgVW1hbmE%3D",
+        "integrations": [
+            {
+                "type": "Roofr Inc",
+                "relation_id": null
+            }
+        ],
+        "notepad": null
+    },
+    {
+        "id": "106378022",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "10500 Southwest 184th Terrace, Cutler Bay, FL 33157",
+        "address": {
+            "street_address_1": "10500 Southwest 184th Terrace",
+            "street_address_2": null,
+            "city": "Cutler Bay",
+            "state": "FL",
+            "postal_code": "33157",
+            "country": "US"
+        },
+        "feature_image": [],
+        "slug": "REs3eaRc6YqfrBQk",
+        "project_url": "https://app.companycam.com/projects/106378022",
+        "public_url": "https://app.companycam.com/timeline/REs3eaRc6YqfrBQk",
+        "coordinates": {
+            "lat": 25.5975196,
+            "lon": -80.36234139999999
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779987485,
+        "updated_at": 1779987485,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/REs3eaRc6YqfrBQk",
+        "photo_count": 0,
+        "capture_photo_deeplink": "ccam://camera/106378022/MTA1MDAgU291dGh3ZXN0IDE4NHRoIFRlcnJhY2UsIEN1dGxlciBCYXksIEZMIDMzMTU3",
+        "integrations": [
+            {
+                "type": "Roofr Inc",
+                "relation_id": null
+            }
+        ],
+        "notepad": null
+    },
+    {
+        "id": "106377522",
+        "company_id": "478798",
+        "creator_id": "2386328",
+        "creator_type": "User",
+        "creator_name": "Anaiz Rocha",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Eric Haas",
+        "address": {
+            "street_address_1": "10500 SW 184th Terrace",
+            "street_address_2": null,
+            "city": "Cutler Bay",
+            "state": "FL",
+            "postal_code": "33157",
+            "country": "US"
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/kFvRIhF0jSfQ2vcQVIyVDqRqD7U_-rh-MaYdi97eNaI/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS80YWI3/OGU5OC1iZGQwLTQ4/YjMtOGMxNC1mNTk1/MDkwODY3OTYuanBn.jpg",
+                "url": "https://img.companycam.com/kFvRIhF0jSfQ2vcQVIyVDqRqD7U_-rh-MaYdi97eNaI/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS80YWI3/OGU5OC1iZGQwLTQ4/YjMtOGMxNC1mNTk1/MDkwODY3OTYuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/H2VfE7gZS_4Vbm8LJ0sH66Ub--gIuACwI1rF_o7vEls/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS80YWI3/OGU5OC1iZGQwLTQ4/YjMtOGMxNC1mNTk1/MDkwODY3OTYuanBn.jpg",
+                "url": "https://img.companycam.com/H2VfE7gZS_4Vbm8LJ0sH66Ub--gIuACwI1rF_o7vEls/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS80YWI3/OGU5OC1iZGQwLTQ4/YjMtOGMxNC1mNTk1/MDkwODY3OTYuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/Y-Wy8F8pMwJfMpXDp8B0sZEZC68K6tcMj62Q0AAMoz0/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS80YWI3/OGU5OC1iZGQwLTQ4/YjMtOGMxNC1mNTk1/MDkwODY3OTYuanBn.jpg",
+                "url": "https://img.companycam.com/Y-Wy8F8pMwJfMpXDp8B0sZEZC68K6tcMj62Q0AAMoz0/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS80YWI3/OGU5OC1iZGQwLTQ4/YjMtOGMxNC1mNTk1/MDkwODY3OTYuanBn.jpg"
+            }
+        ],
+        "slug": "WS2dpFnmfvotQm6V",
+        "project_url": "https://app.companycam.com/projects/106377522",
+        "public_url": "https://app.companycam.com/timeline/WS2dpFnmfvotQm6V",
+        "coordinates": {
+            "lat": 25.5975196,
+            "lon": -80.36234139999999
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779987299,
+        "updated_at": 1779987394,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/WS2dpFnmfvotQm6V",
+        "photo_count": 13,
+        "capture_photo_deeplink": "ccam://camera/106377522/RXJpYyBIYWFz",
+        "integrations": [],
+        "notepad": null
+    },
+    {
+        "id": "106228798",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "1991 Southwest 18th Avenue, Miami, FL 33145",
+        "address": {
+            "street_address_1": "1991 Southwest 18th Avenue",
+            "street_address_2": null,
+            "city": "Miami",
+            "state": "FL",
+            "postal_code": "33145",
+            "country": "US"
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/knPVp09lD4VSv-pFbMW3kykpRAw6mAyZAgvPP86GWY4/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82NDlh/NjRjYi04MmExLTRi/Y2QtOTViZi0yMDVl/OGNlMjQ4NzguanBn.jpg",
+                "url": "https://img.companycam.com/knPVp09lD4VSv-pFbMW3kykpRAw6mAyZAgvPP86GWY4/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82NDlh/NjRjYi04MmExLTRi/Y2QtOTViZi0yMDVl/OGNlMjQ4NzguanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/mCBoSBEb4b5B7cRQVjKK4lFi0WUPs8VGbhcXas32Zdk/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82NDlh/NjRjYi04MmExLTRi/Y2QtOTViZi0yMDVl/OGNlMjQ4NzguanBn.jpg",
+                "url": "https://img.companycam.com/mCBoSBEb4b5B7cRQVjKK4lFi0WUPs8VGbhcXas32Zdk/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82NDlh/NjRjYi04MmExLTRi/Y2QtOTViZi0yMDVl/OGNlMjQ4NzguanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/Ar4WNpKc2pO5W9_y39tdKlOrUZvR_Vr9BRquwMEAfWE/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82NDlh/NjRjYi04MmExLTRi/Y2QtOTViZi0yMDVl/OGNlMjQ4NzguanBn.jpg",
+                "url": "https://img.companycam.com/Ar4WNpKc2pO5W9_y39tdKlOrUZvR_Vr9BRquwMEAfWE/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82NDlh/NjRjYi04MmExLTRi/Y2QtOTViZi0yMDVl/OGNlMjQ4NzguanBn.jpg"
+            }
+        ],
+        "slug": "z9HaRcP2mZn2houA",
+        "project_url": "https://app.companycam.com/projects/106228798",
+        "public_url": "https://app.companycam.com/timeline/z9HaRcP2mZn2houA",
+        "coordinates": {
+            "lat": 25.7528348,
+            "lon": -80.2243428
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779844138,
+        "updated_at": 1779980507,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/z9HaRcP2mZn2houA",
+        "photo_count": 12,
+        "capture_photo_deeplink": "ccam://camera/106228798/MTk5MSBTb3V0aHdlc3QgMTh0aCBBdmVudWUsIE1pYW1pLCBGTCAzMzE0NQ%3D%3D",
+        "integrations": [
+            {
+                "type": "Roofr Inc",
+                "relation_id": null
+            }
+        ],
+        "notepad": null
+    },
+    {
+        "id": "106343370",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "1715 North 43rd Avenue, Hollywood, FL 33021",
+        "address": {
+            "street_address_1": "1715 North 43rd Avenue",
+            "street_address_2": null,
+            "city": "Hollywood",
+            "state": "FL",
+            "postal_code": "33021",
+            "country": "US"
+        },
+        "feature_image": [],
+        "slug": "myQLQAMnorVedAWa",
+        "project_url": "https://app.companycam.com/projects/106343370",
+        "public_url": "https://app.companycam.com/timeline/myQLQAMnorVedAWa",
+        "coordinates": {
+            "lat": 26.0261917,
+            "lon": -80.18668939999999
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779974082,
+        "updated_at": 1779974082,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/myQLQAMnorVedAWa",
+        "photo_count": 0,
+        "capture_photo_deeplink": "ccam://camera/106343370/MTcxNSBOb3J0aCA0M3JkIEF2ZW51ZSwgSG9sbHl3b29kLCBGTCAzMzAyMQ%3D%3D",
+        "integrations": [
+            {
+                "type": "Roofr Inc",
+                "relation_id": null
+            }
+        ],
+        "notepad": null
+    },
+    {
+        "id": "106343278",
+        "company_id": "478798",
+        "creator_id": "2386328",
+        "creator_type": "User",
+        "creator_name": "Anaiz Rocha",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Richard Ney",
+        "address": {
+            "street_address_1": "1715 N 43rd Ave",
+            "street_address_2": null,
+            "city": "Hollywood",
+            "state": "FL",
+            "postal_code": "33021",
+            "country": "US"
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/Sa_wMvEWggmoeaqqj573R9XQTebbcCHtjY5dilc76Fs/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS81NDZi/MjY0ZC0yNTk2LTQ3/ZjMtOWUxOS00ZTZk/YjgyNDU0MDYuanBn.jpg",
+                "url": "https://img.companycam.com/Sa_wMvEWggmoeaqqj573R9XQTebbcCHtjY5dilc76Fs/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS81NDZi/MjY0ZC0yNTk2LTQ3/ZjMtOWUxOS00ZTZk/YjgyNDU0MDYuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/cMz9Qeqaxn33SwVzqEU-iroAtob0I9wIXqEzL54Gpjg/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS81NDZi/MjY0ZC0yNTk2LTQ3/ZjMtOWUxOS00ZTZk/YjgyNDU0MDYuanBn.jpg",
+                "url": "https://img.companycam.com/cMz9Qeqaxn33SwVzqEU-iroAtob0I9wIXqEzL54Gpjg/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS81NDZi/MjY0ZC0yNTk2LTQ3/ZjMtOWUxOS00ZTZk/YjgyNDU0MDYuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/w6zHu42Jc3nkL8BzMAPUadB729Z7M7DOtFLOHO8tRNE/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS81NDZi/MjY0ZC0yNTk2LTQ3/ZjMtOWUxOS00ZTZk/YjgyNDU0MDYuanBn.jpg",
+                "url": "https://img.companycam.com/w6zHu42Jc3nkL8BzMAPUadB729Z7M7DOtFLOHO8tRNE/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS81NDZi/MjY0ZC0yNTk2LTQ3/ZjMtOWUxOS00ZTZk/YjgyNDU0MDYuanBn.jpg"
+            }
+        ],
+        "slug": "6JhYDvWAqJ18ZT2Z",
+        "project_url": "https://app.companycam.com/projects/106343278",
+        "public_url": "https://app.companycam.com/timeline/6JhYDvWAqJ18ZT2Z",
+        "coordinates": {
+            "lat": 26.02619276526353,
+            "lon": -80.1865790784359
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779974043,
+        "updated_at": 1779974598,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/6JhYDvWAqJ18ZT2Z",
+        "photo_count": 6,
+        "capture_photo_deeplink": "ccam://camera/106343278/UmljaGFyZCBOZXk%3D",
+        "integrations": [],
+        "notepad": null
+    },
+    {
+        "id": "40922269",
+        "company_id": "478798",
+        "creator_id": "2417550",
+        "creator_type": "User",
+        "creator_name": "Christian Castano",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Jennie Malloy",
+        "address": {
+            "street_address_1": "755 Tiziano Ave",
+            "street_address_2": null,
+            "city": "Coral Gables",
+            "state": "Fl",
+            "postal_code": "33143",
+            "country": null
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/1RICvH9HtTBYHqTrbZmCLmMM3uzLpEi_OPZsm66JVCo/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9kOGRm/ZjQzYS03ODUzLTQx/MzMtOTE0MC1jMWUy/OWU5MzBiNjYuanBn.jpg",
+                "url": "https://img.companycam.com/1RICvH9HtTBYHqTrbZmCLmMM3uzLpEi_OPZsm66JVCo/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9kOGRm/ZjQzYS03ODUzLTQx/MzMtOTE0MC1jMWUy/OWU5MzBiNjYuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/LPhnOqnkpsNhXs3Tegxs6Awd9uwQ2SJfFB4LRGeJad0/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9kOGRm/ZjQzYS03ODUzLTQx/MzMtOTE0MC1jMWUy/OWU5MzBiNjYuanBn.jpg",
+                "url": "https://img.companycam.com/LPhnOqnkpsNhXs3Tegxs6Awd9uwQ2SJfFB4LRGeJad0/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9kOGRm/ZjQzYS03ODUzLTQx/MzMtOTE0MC1jMWUy/OWU5MzBiNjYuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/YjD75P1iFtz_rSe2UFhSTywI15KeJwp-409_lt0YoGM/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9kOGRm/ZjQzYS03ODUzLTQx/MzMtOTE0MC1jMWUy/OWU5MzBiNjYuanBn.jpg",
+                "url": "https://img.companycam.com/YjD75P1iFtz_rSe2UFhSTywI15KeJwp-409_lt0YoGM/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9kOGRm/ZjQzYS03ODUzLTQx/MzMtOTE0MC1jMWUy/OWU5MzBiNjYuanBn.jpg"
+            }
+        ],
+        "slug": "7zdkHTTorJcSvVQR",
+        "project_url": "https://app.companycam.com/projects/40922269",
+        "public_url": "https://app.companycam.com/timeline/7zdkHTTorJcSvVQR",
+        "coordinates": {
+            "lat": 25.69956163827698,
+            "lon": -80.26860454339509
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1658158312,
+        "updated_at": 1779926378,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/7zdkHTTorJcSvVQR",
+        "photo_count": 132,
+        "capture_photo_deeplink": "ccam://camera/40922269/SmVubmllIE1hbGxveQ%3D%3D",
+        "integrations": [],
+        "notepad": null
+    },
+    {
+        "id": "106324716",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Alena Hinds",
+        "address": {
+            "street_address_1": "24103 SW 118 Ave",
+            "street_address_2": null,
+            "city": "Princeton",
+            "state": "FL",
+            "postal_code": "33032",
+            "country": "US"
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/9GDN2NSs4wOYCgQVimrgrdQR8KSGhicLCO4AD8Fg7SM/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82M2Vm/NWRhZi1iZDY2LTQ4/NmMtOWFkOC0zZWVh/NGQ5ZTYzYmEuanBn.jpg",
+                "url": "https://img.companycam.com/9GDN2NSs4wOYCgQVimrgrdQR8KSGhicLCO4AD8Fg7SM/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82M2Vm/NWRhZi1iZDY2LTQ4/NmMtOWFkOC0zZWVh/NGQ5ZTYzYmEuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/Ygo8hNrwhQWGi61eI5-knzLpAfuHd6AfemYNEDcq974/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82M2Vm/NWRhZi1iZDY2LTQ4/NmMtOWFkOC0zZWVh/NGQ5ZTYzYmEuanBn.jpg",
+                "url": "https://img.companycam.com/Ygo8hNrwhQWGi61eI5-knzLpAfuHd6AfemYNEDcq974/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82M2Vm/NWRhZi1iZDY2LTQ4/NmMtOWFkOC0zZWVh/NGQ5ZTYzYmEuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/38PpiIZ4IXCyE_-npiXkGYzOSfCOh_RFc0A45ODq-qg/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82M2Vm/NWRhZi1iZDY2LTQ4/NmMtOWFkOC0zZWVh/NGQ5ZTYzYmEuanBn.jpg",
+                "url": "https://img.companycam.com/38PpiIZ4IXCyE_-npiXkGYzOSfCOh_RFc0A45ODq-qg/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82M2Vm/NWRhZi1iZDY2LTQ4/NmMtOWFkOC0zZWVh/NGQ5ZTYzYmEuanBn.jpg"
+            }
+        ],
+        "slug": "QeewUPaqFD4M5KH4",
+        "project_url": "https://app.companycam.com/projects/106324716",
+        "public_url": "https://app.companycam.com/timeline/QeewUPaqFD4M5KH4",
+        "coordinates": {
+            "lat": 25.543268514266366,
+            "lon": -80.38184054195881
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779922732,
+        "updated_at": 1779925469,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/QeewUPaqFD4M5KH4",
+        "photo_count": 29,
+        "capture_photo_deeplink": "ccam://camera/106324716/QWxlbmEgSGluZHM%3D",
+        "integrations": [],
+        "notepad": null
+    },
+    {
+        "id": "106316829",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Julie Guerra",
+        "address": {
+            "street_address_1": "8887 NW 180th Terrace",
+            "street_address_2": null,
+            "city": "Hialeah",
+            "state": "FL",
+            "postal_code": "33018",
+            "country": "US"
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/7uLonx43hHUQAfGJGIapp3n_E3HvjgSGBJCGSpFcSXA/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS84NDNl/NDM3OS1lZmI0LTQ4/MTYtOWU5NS1lOTlh/OTcxZDk4ZDkuanBn.jpg",
+                "url": "https://img.companycam.com/7uLonx43hHUQAfGJGIapp3n_E3HvjgSGBJCGSpFcSXA/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS84NDNl/NDM3OS1lZmI0LTQ4/MTYtOWU5NS1lOTlh/OTcxZDk4ZDkuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/gormQXoCA_ut9rxn7IJx8rO6RVRtrvR_7TGmKY2b_bw/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS84NDNl/NDM3OS1lZmI0LTQ4/MTYtOWU5NS1lOTlh/OTcxZDk4ZDkuanBn.jpg",
+                "url": "https://img.companycam.com/gormQXoCA_ut9rxn7IJx8rO6RVRtrvR_7TGmKY2b_bw/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS84NDNl/NDM3OS1lZmI0LTQ4/MTYtOWU5NS1lOTlh/OTcxZDk4ZDkuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/pb0T_ZtkHkgQe_DQLDd02hG3UeD50lSp0PlavOyi8wY/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS84NDNl/NDM3OS1lZmI0LTQ4/MTYtOWU5NS1lOTlh/OTcxZDk4ZDkuanBn.jpg",
+                "url": "https://img.companycam.com/pb0T_ZtkHkgQe_DQLDd02hG3UeD50lSp0PlavOyi8wY/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS84NDNl/NDM3OS1lZmI0LTQ4/MTYtOWU5NS1lOTlh/OTcxZDk4ZDkuanBn.jpg"
+            }
+        ],
+        "slug": "U33772zPDJDAxLYk",
+        "project_url": "https://app.companycam.com/projects/106316829",
+        "public_url": "https://app.companycam.com/timeline/U33772zPDJDAxLYk",
+        "coordinates": {
+            "lat": 25.937460014407364,
+            "lon": -80.34569308161736
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779916325,
+        "updated_at": 1779917838,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/U33772zPDJDAxLYk",
+        "photo_count": 37,
+        "capture_photo_deeplink": "ccam://camera/106316829/SnVsaWUgR3VlcnJh",
+        "integrations": [],
+        "notepad": null
+    },
+    {
+        "id": "45081586",
+        "company_id": "478798",
+        "creator_id": "2417550",
+        "creator_type": "User",
+        "creator_name": "Christian Castano",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Reynaldo Nunez Gooseneck",
+        "address": {
+            "street_address_1": "998 NW 136th Pl",
+            "street_address_2": null,
+            "city": "Miami",
+            "state": "FL",
+            "postal_code": "33182",
+            "country": null
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/2pORCXf8g4f_bj-CT7ExZcwydhTZx2WiLsDyDZ-LeAM/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9mZTQ2/M2ZiOS00Nzc3LTQ5/ODAtYjdiYi1iNWUw/NTM1ZGQ0NmYuanBn.jpg",
+                "url": "https://img.companycam.com/2pORCXf8g4f_bj-CT7ExZcwydhTZx2WiLsDyDZ-LeAM/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9mZTQ2/M2ZiOS00Nzc3LTQ5/ODAtYjdiYi1iNWUw/NTM1ZGQ0NmYuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/9VZkk0l1qdQFMs1V7Wu7HdTTfo6v40rEARRCQ6sVqOI/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9mZTQ2/M2ZiOS00Nzc3LTQ5/ODAtYjdiYi1iNWUw/NTM1ZGQ0NmYuanBn.jpg",
+                "url": "https://img.companycam.com/9VZkk0l1qdQFMs1V7Wu7HdTTfo6v40rEARRCQ6sVqOI/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9mZTQ2/M2ZiOS00Nzc3LTQ5/ODAtYjdiYi1iNWUw/NTM1ZGQ0NmYuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/GLoCBszgilVgXysVJbMCNZBC-8UTdED-lwiDCoYzcMc/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9mZTQ2/M2ZiOS00Nzc3LTQ5/ODAtYjdiYi1iNWUw/NTM1ZGQ0NmYuanBn.jpg",
+                "url": "https://img.companycam.com/GLoCBszgilVgXysVJbMCNZBC-8UTdED-lwiDCoYzcMc/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9mZTQ2/M2ZiOS00Nzc3LTQ5/ODAtYjdiYi1iNWUw/NTM1ZGQ0NmYuanBn.jpg"
+            }
+        ],
+        "slug": "qmE5HAFt318mBdcH",
+        "project_url": "https://app.companycam.com/projects/45081586",
+        "public_url": "https://app.companycam.com/timeline/qmE5HAFt318mBdcH",
+        "coordinates": {
+            "lat": 25.779268841212357,
+            "lon": -80.41660750284791
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1670423845,
+        "updated_at": 1779964737,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/qmE5HAFt318mBdcH",
+        "photo_count": 61,
+        "capture_photo_deeplink": "ccam://camera/45081586/UmV5bmFsZG8gTnVuZXogR29vc2VuZWNr",
+        "integrations": [],
+        "notepad": null
+    },
+    {
+        "id": "58362944",
+        "company_id": "478798",
+        "creator_id": "2379249",
+        "creator_type": "User",
+        "creator_name": "Mario Famada",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Mark Langer",
+        "address": {
+            "street_address_1": "3520 Crystal Ct",
+            "street_address_2": null,
+            "city": "Miami",
+            "state": "FL",
+            "postal_code": "33133",
+            "country": null
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/XC_m_UIKSBzbFORqAClPdX2wfmU9iYBL-s5dNTTf63Y/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9hZjk1/OGNiYy00ZjMxLTRk/NjgtYmIxYy05ODIz/YTBkODI0YTYuanBn.jpg",
+                "url": "https://img.companycam.com/XC_m_UIKSBzbFORqAClPdX2wfmU9iYBL-s5dNTTf63Y/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9hZjk1/OGNiYy00ZjMxLTRk/NjgtYmIxYy05ODIz/YTBkODI0YTYuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/acT6pNeWs3FdZFZswJlZTLE_bgAWNsF2-GTbbJuGJR0/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9hZjk1/OGNiYy00ZjMxLTRk/NjgtYmIxYy05ODIz/YTBkODI0YTYuanBn.jpg",
+                "url": "https://img.companycam.com/acT6pNeWs3FdZFZswJlZTLE_bgAWNsF2-GTbbJuGJR0/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9hZjk1/OGNiYy00ZjMxLTRk/NjgtYmIxYy05ODIz/YTBkODI0YTYuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/UBvMQ-if9194Qx7Q7Ni2w8VIVc0J73ewZNLVpTkafBs/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9hZjk1/OGNiYy00ZjMxLTRk/NjgtYmIxYy05ODIz/YTBkODI0YTYuanBn.jpg",
+                "url": "https://img.companycam.com/UBvMQ-if9194Qx7Q7Ni2w8VIVc0J73ewZNLVpTkafBs/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9hZjk1/OGNiYy00ZjMxLTRk/NjgtYmIxYy05ODIz/YTBkODI0YTYuanBn.jpg"
+            }
+        ],
+        "slug": "NjWrvCQ9ZUzH7Jg1",
+        "project_url": "https://app.companycam.com/projects/58362944",
+        "public_url": "https://app.companycam.com/timeline/NjWrvCQ9ZUzH7Jg1",
+        "coordinates": {
+            "lat": 25.73822430163021,
+            "lon": -80.22350672632456
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1703254170,
+        "updated_at": 1779912185,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/NjWrvCQ9ZUzH7Jg1",
+        "photo_count": 85,
+        "capture_photo_deeplink": "ccam://camera/58362944/TWFyayBMYW5nZXI%3D",
+        "integrations": [],
+        "notepad": null
+    },
+    {
+        "id": "59608737",
+        "company_id": "478798",
+        "creator_id": "2463420",
+        "creator_type": "User",
+        "creator_name": "Raul Sanchez",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "David Maceachern ",
+        "address": {
+            "street_address_1": "6330 SW 114th St",
+            "street_address_2": null,
+            "city": "Pinecrest",
+            "state": "FL",
+            "postal_code": "33156",
+            "country": null
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/-ALf6DVOlGOQxsdGTDXdd1Tcv1IDfzmVBIM4ycpcZII/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9jMGNh/MDExYS0wMmY4LTQ5/NTYtOGNjNC0zOWU2/MWNkY2E5NTAuanBn.jpg",
+                "url": "https://img.companycam.com/-ALf6DVOlGOQxsdGTDXdd1Tcv1IDfzmVBIM4ycpcZII/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9jMGNh/MDExYS0wMmY4LTQ5/NTYtOGNjNC0zOWU2/MWNkY2E5NTAuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/rWbJbEgVaEYNlLPQRayT3nRd74fWha-eaYp2-3ufaM0/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9jMGNh/MDExYS0wMmY4LTQ5/NTYtOGNjNC0zOWU2/MWNkY2E5NTAuanBn.jpg",
+                "url": "https://img.companycam.com/rWbJbEgVaEYNlLPQRayT3nRd74fWha-eaYp2-3ufaM0/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9jMGNh/MDExYS0wMmY4LTQ5/NTYtOGNjNC0zOWU2/MWNkY2E5NTAuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/t40H5o10dLxaG7KR2Jg7dABD9Gb40m3zj1KYhjqlIO0/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9jMGNh/MDExYS0wMmY4LTQ5/NTYtOGNjNC0zOWU2/MWNkY2E5NTAuanBn.jpg",
+                "url": "https://img.companycam.com/t40H5o10dLxaG7KR2Jg7dABD9Gb40m3zj1KYhjqlIO0/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9jMGNh/MDExYS0wMmY4LTQ5/NTYtOGNjNC0zOWU2/MWNkY2E5NTAuanBn.jpg"
+            }
+        ],
+        "slug": "k2ov6XrpnNfjpH9P",
+        "project_url": "https://app.companycam.com/projects/59608737",
+        "public_url": "https://app.companycam.com/timeline/k2ov6XrpnNfjpH9P",
+        "coordinates": {
+            "lat": 25.6649544,
+            "lon": -80.2968044
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1706891438,
+        "updated_at": 1779938117,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/k2ov6XrpnNfjpH9P",
+        "photo_count": 229,
+        "capture_photo_deeplink": "ccam://camera/59608737/RGF2aWQgTWFjZWFjaGVybiA%3D",
+        "integrations": [],
+        "notepad": "\u003cp\u003eWORK SCOPE\u0026nbsp;\u003c/p\u003e\u003cp\u003e• 26 broken tiles\u003c/p\u003e\u003cp\u003e• add tile adhesive to cracked tiles\u003c/p\u003e\u003cp\u003e• clean tile before installing\u0026nbsp;\u003c/p\u003e\u003cp\u003eClinet has tile\u0026nbsp;\u003c/p\u003e"
+    },
+    {
+        "id": "106269221",
+        "company_id": "478798",
+        "creator_id": "2386328",
+        "creator_type": "User",
+        "creator_name": "Anaiz Rocha",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Lona Smith ",
+        "address": {
+            "street_address_1": "18551 SW 136th St",
+            "street_address_2": null,
+            "city": "Miami",
+            "state": "FL",
+            "postal_code": "33196",
+            "country": "US"
+        },
+        "feature_image": [],
+        "slug": "eYEgZnVjvdR1XwK5",
+        "project_url": "https://app.companycam.com/projects/106269221",
+        "public_url": "https://app.companycam.com/timeline/eYEgZnVjvdR1XwK5",
+        "coordinates": {
+            "lat": 25.638406390423405,
+            "lon": -80.49441453069448
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779897479,
+        "updated_at": 1779897479,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/eYEgZnVjvdR1XwK5",
+        "photo_count": 0,
+        "capture_photo_deeplink": "ccam://camera/106269221/TG9uYSBTbWl0aCA%3D",
+        "integrations": [],
+        "notepad": null
+    },
+    {
+        "id": "106260095",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "7557 Southwest 164th Court, Miami, FL 33193",
+        "address": {
+            "street_address_1": "7557 Southwest 164th Court",
+            "street_address_2": null,
+            "city": "Miami",
+            "state": "FL",
+            "postal_code": "33193",
+            "country": "US"
+        },
+        "feature_image": [],
+        "slug": "kK9qZXj38N8Qh3ck",
+        "project_url": "https://app.companycam.com/projects/106260095",
+        "public_url": "https://app.companycam.com/timeline/kK9qZXj38N8Qh3ck",
+        "coordinates": {
+            "lat": 25.6951151,
+            "lon": -80.45945999999999
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779894201,
+        "updated_at": 1779894201,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/kK9qZXj38N8Qh3ck",
+        "photo_count": 0,
+        "capture_photo_deeplink": "ccam://camera/106260095/NzU1NyBTb3V0aHdlc3QgMTY0dGggQ291cnQsIE1pYW1pLCBGTCAzMzE5Mw%3D%3D",
+        "integrations": [
+            {
+                "type": "Roofr Inc",
+                "relation_id": null
+            }
+        ],
+        "notepad": null
+    },
+    {
+        "id": "106259886",
+        "company_id": "478798",
+        "creator_id": "2386328",
+        "creator_type": "User",
+        "creator_name": "Anaiz Rocha",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Tanya Aburto ",
+        "address": {
+            "street_address_1": "7557 SW 164th Ct",
+            "street_address_2": null,
+            "city": "Miami",
+            "state": "FL",
+            "postal_code": "33193",
+            "country": "US"
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/NuejGajrvCE1cuzmENQIod58-QNARqy7ZtgfNzmiMzU/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9mZDlh/YTc2OS0wNmEyLTQ2/ZjktOGFkZC1lYmI0/OGE0ODFkOGMuanBn.jpg",
+                "url": "https://img.companycam.com/NuejGajrvCE1cuzmENQIod58-QNARqy7ZtgfNzmiMzU/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9mZDlh/YTc2OS0wNmEyLTQ2/ZjktOGFkZC1lYmI0/OGE0ODFkOGMuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/vUE7-QHJ648Yp4mtcp_QpNcLFhn8twwGUx-_jlRYXxo/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9mZDlh/YTc2OS0wNmEyLTQ2/ZjktOGFkZC1lYmI0/OGE0ODFkOGMuanBn.jpg",
+                "url": "https://img.companycam.com/vUE7-QHJ648Yp4mtcp_QpNcLFhn8twwGUx-_jlRYXxo/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9mZDlh/YTc2OS0wNmEyLTQ2/ZjktOGFkZC1lYmI0/OGE0ODFkOGMuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/qjGSl_PWHW03wuEfoj55oHtCGYc3P_QDU8No2h5i9p0/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9mZDlh/YTc2OS0wNmEyLTQ2/ZjktOGFkZC1lYmI0/OGE0ODFkOGMuanBn.jpg",
+                "url": "https://img.companycam.com/qjGSl_PWHW03wuEfoj55oHtCGYc3P_QDU8No2h5i9p0/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9mZDlh/YTc2OS0wNmEyLTQ2/ZjktOGFkZC1lYmI0/OGE0ODFkOGMuanBn.jpg"
+            }
+        ],
+        "slug": "xY5Jxrw16xcmtXAR",
+        "project_url": "https://app.companycam.com/projects/106259886",
+        "public_url": "https://app.companycam.com/timeline/xY5Jxrw16xcmtXAR",
+        "coordinates": {
+            "lat": 25.6951151,
+            "lon": -80.45945999999999
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779894118,
+        "updated_at": 1779894543,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/xY5Jxrw16xcmtXAR",
+        "photo_count": 22,
+        "capture_photo_deeplink": "ccam://camera/106259886/VGFueWEgQWJ1cnRvIA%3D%3D",
+        "integrations": [],
+        "notepad": null
+    },
+    {
+        "id": "103764218",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "20515 Southwest 117th Court, Miami, FL 33177",
+        "address": {
+            "street_address_1": "20515 Southwest 117th Court",
+            "street_address_2": null,
+            "city": "Miami",
+            "state": "FL",
+            "postal_code": "33177",
+            "country": "US"
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/j-y2ucoSELt8KNYhok_AxaprmsQb6Y9bjLAUE0Abylo/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS85NjM1/MTdjMy05ZDEwLTRk/YTUtODVjMy02ODQ3/NmNmYjhmNGQuanBn.jpg",
+                "url": "https://img.companycam.com/j-y2ucoSELt8KNYhok_AxaprmsQb6Y9bjLAUE0Abylo/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS85NjM1/MTdjMy05ZDEwLTRk/YTUtODVjMy02ODQ3/NmNmYjhmNGQuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/6SACcJEfdxZqSyGBAtrNLwPFYCCp-R1yQ2c4xGrNdpY/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS85NjM1/MTdjMy05ZDEwLTRk/YTUtODVjMy02ODQ3/NmNmYjhmNGQuanBn.jpg",
+                "url": "https://img.companycam.com/6SACcJEfdxZqSyGBAtrNLwPFYCCp-R1yQ2c4xGrNdpY/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS85NjM1/MTdjMy05ZDEwLTRk/YTUtODVjMy02ODQ3/NmNmYjhmNGQuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/5pV8Yp3D7TMnvtaunJGuSpxW4xCGK_vhvYKghfcKUI4/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS85NjM1/MTdjMy05ZDEwLTRk/YTUtODVjMy02ODQ3/NmNmYjhmNGQuanBn.jpg",
+                "url": "https://img.companycam.com/5pV8Yp3D7TMnvtaunJGuSpxW4xCGK_vhvYKghfcKUI4/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS85NjM1/MTdjMy05ZDEwLTRk/YTUtODVjMy02ODQ3/NmNmYjhmNGQuanBn.jpg"
+            }
+        ],
+        "slug": "mkN6pbWuLNfQMwKE",
+        "project_url": "https://app.companycam.com/projects/103764218",
+        "public_url": "https://app.companycam.com/timeline/mkN6pbWuLNfQMwKE",
+        "coordinates": {
+            "lat": 25.5756793,
+            "lon": -80.38132759999999
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1776950417,
+        "updated_at": 1779893197,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/mkN6pbWuLNfQMwKE",
+        "photo_count": 11,
+        "capture_photo_deeplink": "ccam://camera/103764218/MjA1MTUgU291dGh3ZXN0IDExN3RoIENvdXJ0LCBNaWFtaSwgRkwgMzMxNzc%3D",
+        "integrations": [
+            {
+                "type": "Roofr Inc",
+                "relation_id": null
+            }
+        ],
+        "notepad": null
+    },
+    {
+        "id": "106195027",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Sally Haley Seaborn",
+        "address": {
+            "street_address_1": "10721 Southwest 51st Drive",
+            "street_address_2": null,
+            "city": "Miami",
+            "state": "FL",
+            "postal_code": "33165",
+            "country": "US"
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/UyyZOp-Oed-KNnMUy17TYBkcvjcNF_0KZl7Bo315VZM/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82MGJm/NGE5YS01YTI0LTRm/ZGYtOTljNi0wZjRm/YTdiODFjYWYuanBn.jpg",
+                "url": "https://img.companycam.com/UyyZOp-Oed-KNnMUy17TYBkcvjcNF_0KZl7Bo315VZM/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82MGJm/NGE5YS01YTI0LTRm/ZGYtOTljNi0wZjRm/YTdiODFjYWYuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/cmSSwUCxUafQsS49RGLBAw2XiwFcZUndC3bG7KAk1Bw/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82MGJm/NGE5YS01YTI0LTRm/ZGYtOTljNi0wZjRm/YTdiODFjYWYuanBn.jpg",
+                "url": "https://img.companycam.com/cmSSwUCxUafQsS49RGLBAw2XiwFcZUndC3bG7KAk1Bw/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82MGJm/NGE5YS01YTI0LTRm/ZGYtOTljNi0wZjRm/YTdiODFjYWYuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/DzabQJklnEWpklHT47HpCZqluIppKI0A8_4BAHkxgj8/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82MGJm/NGE5YS01YTI0LTRm/ZGYtOTljNi0wZjRm/YTdiODFjYWYuanBn.jpg",
+                "url": "https://img.companycam.com/DzabQJklnEWpklHT47HpCZqluIppKI0A8_4BAHkxgj8/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82MGJm/NGE5YS01YTI0LTRm/ZGYtOTljNi0wZjRm/YTdiODFjYWYuanBn.jpg"
+            }
+        ],
+        "slug": "p6PaTYTJWzd2dJsj",
+        "project_url": "https://app.companycam.com/projects/106195027",
+        "public_url": "https://app.companycam.com/timeline/p6PaTYTJWzd2dJsj",
+        "coordinates": {
+            "lat": 25.7206051,
+            "lon": -80.36789449999999
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779821726,
+        "updated_at": 1779892418,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/p6PaTYTJWzd2dJsj",
+        "photo_count": 54,
+        "capture_photo_deeplink": "ccam://camera/106195027/U2FsbHkgSGFsZXkgU2VhYm9ybg%3D%3D",
+        "integrations": [
+            {
+                "type": "Roofr Inc",
+                "relation_id": null
+            }
+        ],
+        "notepad": null
+    },
+    {
+        "id": "106253043",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Julie Guerra",
+        "address": {
+            "street_address_1": "8887 Northwest 180th Terrace",
+            "street_address_2": null,
+            "city": "Hialeah",
+            "state": "FL",
+            "postal_code": "33018",
+            "country": "US"
+        },
+        "feature_image": [],
+        "slug": "x6RE3zhWrYX5pRVJ",
+        "project_url": "https://app.companycam.com/projects/106253043",
+        "public_url": "https://app.companycam.com/timeline/x6RE3zhWrYX5pRVJ",
+        "coordinates": {
+            "lat": 25.9375145,
+            "lon": -80.3457506
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779891545,
+        "updated_at": 1779891545,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/x6RE3zhWrYX5pRVJ",
+        "photo_count": 0,
+        "capture_photo_deeplink": "ccam://camera/106253043/SnVsaWUgR3VlcnJh",
+        "integrations": [
+            {
+                "type": "Roofr Inc",
+                "relation_id": null
+            }
+        ],
+        "notepad": null
+    },
+    {
+        "id": "106249893",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "2140 Monroe Street, Hollywood, FL 33020",
+        "address": {
+            "street_address_1": "2140 Monroe Street",
+            "street_address_2": null,
+            "city": "Hollywood",
+            "state": "FL",
+            "postal_code": "33020",
+            "country": "US"
+        },
+        "feature_image": [],
+        "slug": "6avJYygnwHV5U9jD",
+        "project_url": "https://app.companycam.com/projects/106249893",
+        "public_url": "https://app.companycam.com/timeline/6avJYygnwHV5U9jD",
+        "coordinates": {
+            "lat": 26.0073754,
+            "lon": -80.15075999999999
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779890347,
+        "updated_at": 1779890347,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/6avJYygnwHV5U9jD",
+        "photo_count": 0,
+        "capture_photo_deeplink": "ccam://camera/106249893/MjE0MCBNb25yb2UgU3RyZWV0LCBIb2xseXdvb2QsIEZMIDMzMDIw",
+        "integrations": [
+            {
+                "type": "Roofr Inc",
+                "relation_id": null
+            }
+        ],
+        "notepad": null
+    },
+    {
+        "id": "106248785",
+        "company_id": "478798",
+        "creator_id": "2386328",
+        "creator_type": "User",
+        "creator_name": "Anaiz Rocha",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Lee Rebalko ",
+        "address": {
+            "street_address_1": "2140 Monroe St",
+            "street_address_2": null,
+            "city": "Hollywood",
+            "state": "FL",
+            "postal_code": "33020",
+            "country": "US"
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/h6AWnXYKHahcf8I5msaF8VB3dfaJ8Lvn1azigkhcbrI/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82ZThk/OTc2MS02YjNiLTRi/ZDktYjhlMy04Zjdi/NDg2N2E5OTUuanBn.jpg",
+                "url": "https://img.companycam.com/h6AWnXYKHahcf8I5msaF8VB3dfaJ8Lvn1azigkhcbrI/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82ZThk/OTc2MS02YjNiLTRi/ZDktYjhlMy04Zjdi/NDg2N2E5OTUuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/DFwfjGMQvCPIW6XXR_haCjyEBc53cCNB78AJcOxjK1I/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82ZThk/OTc2MS02YjNiLTRi/ZDktYjhlMy04Zjdi/NDg2N2E5OTUuanBn.jpg",
+                "url": "https://img.companycam.com/DFwfjGMQvCPIW6XXR_haCjyEBc53cCNB78AJcOxjK1I/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82ZThk/OTc2MS02YjNiLTRi/ZDktYjhlMy04Zjdi/NDg2N2E5OTUuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/FvBkY9dNBaHAQh7Zh7ZJraMWhyjbpAsUV_wruyoX75c/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82ZThk/OTc2MS02YjNiLTRi/ZDktYjhlMy04Zjdi/NDg2N2E5OTUuanBn.jpg",
+                "url": "https://img.companycam.com/FvBkY9dNBaHAQh7Zh7ZJraMWhyjbpAsUV_wruyoX75c/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS82ZThk/OTc2MS02YjNiLTRi/ZDktYjhlMy04Zjdi/NDg2N2E5OTUuanBn.jpg"
+            }
+        ],
+        "slug": "Ba5KcALCLSmTfmTr",
+        "project_url": "https://app.companycam.com/projects/106248785",
+        "public_url": "https://app.companycam.com/timeline/Ba5KcALCLSmTfmTr",
+        "coordinates": {
+            "lat": 26.0073754,
+            "lon": -80.15075999999999
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779889896,
+        "updated_at": 1779890497,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/Ba5KcALCLSmTfmTr",
+        "photo_count": 7,
+        "capture_photo_deeplink": "ccam://camera/106248785/TGVlIFJlYmFsa28g",
+        "integrations": [],
+        "notepad": null
+    },
+    {
+        "id": "106228778",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "6500 Southwest 4th Street, Miami, FL 33144",
+        "address": {
+            "street_address_1": "6500 Southwest 4th Street",
+            "street_address_2": null,
+            "city": "Miami",
+            "state": "FL",
+            "postal_code": "33144",
+            "country": "US"
+        },
+        "feature_image": [],
+        "slug": "tjYXrif8kohv9daP",
+        "project_url": "https://app.companycam.com/projects/106228778",
+        "public_url": "https://app.companycam.com/timeline/tjYXrif8kohv9daP",
+        "coordinates": {
+            "lat": 25.7666004,
+            "lon": -80.3022314
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779844049,
+        "updated_at": 1779844049,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/tjYXrif8kohv9daP",
+        "photo_count": 0,
+        "capture_photo_deeplink": "ccam://camera/106228778/NjUwMCBTb3V0aHdlc3QgNHRoIFN0cmVldCwgTWlhbWksIEZMIDMzMTQ0",
+        "integrations": [
+            {
+                "type": "Roofr Inc",
+                "relation_id": null
+            }
+        ],
+        "notepad": null
+    },
+    {
+        "id": "66161418",
+        "company_id": "478798",
+        "creator_id": "2463420",
+        "creator_type": "User",
+        "creator_name": "Raul Sanchez",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Carlos Sarmiento Westlake Malibu Tile Color TBD -HOA Pending",
+        "address": {
+            "street_address_1": "5670 NW 113th Pl",
+            "street_address_2": null,
+            "city": "Doral",
+            "state": "FL",
+            "postal_code": "33178",
+            "country": null
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/_QDjCPueOITDkZEHVYJl_M2edQfDWfq1zzCcsAGl5xk/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9iY2Q0/NzhlOC01NTQwLTQx/MWQtYjYxYy01Zjlk/OTFmZmQ4NDguanBn.jpg",
+                "url": "https://img.companycam.com/_QDjCPueOITDkZEHVYJl_M2edQfDWfq1zzCcsAGl5xk/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9iY2Q0/NzhlOC01NTQwLTQx/MWQtYjYxYy01Zjlk/OTFmZmQ4NDguanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/Xt1pGAp4pE5ZecWzMZqXKurvpYJkS66pvNujAOp_xkI/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9iY2Q0/NzhlOC01NTQwLTQx/MWQtYjYxYy01Zjlk/OTFmZmQ4NDguanBn.jpg",
+                "url": "https://img.companycam.com/Xt1pGAp4pE5ZecWzMZqXKurvpYJkS66pvNujAOp_xkI/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9iY2Q0/NzhlOC01NTQwLTQx/MWQtYjYxYy01Zjlk/OTFmZmQ4NDguanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/WVjjmTROWFa0uMXHR3G-1d3GqeVtJONJPodKqm7nDpA/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9iY2Q0/NzhlOC01NTQwLTQx/MWQtYjYxYy01Zjlk/OTFmZmQ4NDguanBn.jpg",
+                "url": "https://img.companycam.com/WVjjmTROWFa0uMXHR3G-1d3GqeVtJONJPodKqm7nDpA/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS9iY2Q0/NzhlOC01NTQwLTQx/MWQtYjYxYy01Zjlk/OTFmZmQ4NDguanBn.jpg"
+            }
+        ],
+        "slug": "8FcfXuePgUbh1xLi",
+        "project_url": "https://app.companycam.com/projects/66161418",
+        "public_url": "https://app.companycam.com/timeline/8FcfXuePgUbh1xLi",
+        "coordinates": {
+            "lat": 25.8249467702504,
+            "lon": -80.38162160664797
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1719329387,
+        "updated_at": 1779902967,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/8FcfXuePgUbh1xLi",
+        "photo_count": 122,
+        "capture_photo_deeplink": "ccam://camera/66161418/Q2FybG9zIFNhcm1pZW50byBXZXN0bGFrZSBNYWxpYnUgVGlsZSBDb2xvciBUQkQgLUhPQSBQZW5kaW5n",
+        "integrations": [],
+        "notepad": "\u003cp\u003eWORK SCOPE\u0026nbsp;\u003c/p\u003e\u003cp\u003e• valley repair area 20x4\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e3 DAYS\u0026nbsp;\u003c/p\u003e"
+    },
+    {
+        "id": "105704194",
+        "company_id": "478798",
+        "creator_id": "2386328",
+        "creator_type": "User",
+        "creator_name": "Anaiz Rocha",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Leticia Rivero ",
+        "address": {
+            "street_address_1": "6925 Holly Rd",
+            "street_address_2": null,
+            "city": "Hialeah",
+            "state": "FL",
+            "postal_code": "33014",
+            "country": "US"
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/dScO1uabpy41c01rEmJZKuSU9k8RGy4LijPe9swr408/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8xMDNi/NzA5ZS1hMTUyLTQ1/NTUtYTY3Yy03NjU2/ZjhlNDE3MTkuanBn.jpg",
+                "url": "https://img.companycam.com/dScO1uabpy41c01rEmJZKuSU9k8RGy4LijPe9swr408/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8xMDNi/NzA5ZS1hMTUyLTQ1/NTUtYTY3Yy03NjU2/ZjhlNDE3MTkuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/pMvGFXFag0yw_TEbve8BCfJV7eFl4dnsAcy_-NQ3OH4/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8xMDNi/NzA5ZS1hMTUyLTQ1/NTUtYTY3Yy03NjU2/ZjhlNDE3MTkuanBn.jpg",
+                "url": "https://img.companycam.com/pMvGFXFag0yw_TEbve8BCfJV7eFl4dnsAcy_-NQ3OH4/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8xMDNi/NzA5ZS1hMTUyLTQ1/NTUtYTY3Yy03NjU2/ZjhlNDE3MTkuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/-z15fwuIOqoew2m8-GGuCS11FujHTdo9EQc-03ogEQg/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8xMDNi/NzA5ZS1hMTUyLTQ1/NTUtYTY3Yy03NjU2/ZjhlNDE3MTkuanBn.jpg",
+                "url": "https://img.companycam.com/-z15fwuIOqoew2m8-GGuCS11FujHTdo9EQc-03ogEQg/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8xMDNi/NzA5ZS1hMTUyLTQ1/NTUtYTY3Yy03NjU2/ZjhlNDE3MTkuanBn.jpg"
+            }
+        ],
+        "slug": "g9xJDbHU3sK3rXYd",
+        "project_url": "https://app.companycam.com/projects/105704194",
+        "public_url": "https://app.companycam.com/timeline/g9xJDbHU3sK3rXYd",
+        "coordinates": {
+            "lat": 25.9106854,
+            "lon": -80.31397439999999
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779200684,
+        "updated_at": 1779877390,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/g9xJDbHU3sK3rXYd",
+        "photo_count": 38,
+        "capture_photo_deeplink": "ccam://camera/105704194/TGV0aWNpYSBSaXZlcm8g",
+        "integrations": [],
+        "notepad": null
+    },
+    {
+        "id": "106201083",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "1675 Northeast 137th Terrace, North Miami, FL 33181",
+        "address": {
+            "street_address_1": "1675 Northeast 137th Terrace",
+            "street_address_2": null,
+            "city": "North Miami",
+            "state": "FL",
+            "postal_code": "33181",
+            "country": "US"
+        },
+        "feature_image": [],
+        "slug": "VRFCmCdVjUbRi6Fb",
+        "project_url": "https://app.companycam.com/projects/106201083",
+        "public_url": "https://app.companycam.com/timeline/VRFCmCdVjUbRi6Fb",
+        "coordinates": {
+            "lat": 25.9028532,
+            "lon": -80.1655723
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779823652,
+        "updated_at": 1779823652,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/VRFCmCdVjUbRi6Fb",
+        "photo_count": 0,
+        "capture_photo_deeplink": "ccam://camera/106201083/MTY3NSBOb3J0aGVhc3QgMTM3dGggVGVycmFjZSwgTm9ydGggTWlhbWksIEZMIDMzMTgx",
+        "integrations": [
+            {
+                "type": "Roofr Inc",
+                "relation_id": null
+            }
+        ],
+        "notepad": null
+    },
+    {
+        "id": "61117798",
+        "company_id": "478798",
+        "creator_id": "2463420",
+        "creator_type": "User",
+        "creator_name": "Raul Sanchez",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Ed Jones ",
+        "address": {
+            "street_address_1": "15689 SW 172nd Ave",
+            "street_address_2": null,
+            "city": "Miami",
+            "state": "FL",
+            "postal_code": "33187",
+            "country": null
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/ErMJ44UfQQWd6WTjUAdL8YujmE3Lkn4yhDXJ_EgPym4/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS80YWM0/YmU3My03NjRlLTRl/YzYtYTg4Yi05NGQ0/NjE1MGUwZDguanBn.jpg",
+                "url": "https://img.companycam.com/ErMJ44UfQQWd6WTjUAdL8YujmE3Lkn4yhDXJ_EgPym4/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS80YWM0/YmU3My03NjRlLTRl/YzYtYTg4Yi05NGQ0/NjE1MGUwZDguanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/AqF7L_mC0BWYrf5xgLcWFDt9BTa978CD7BhRnNT_1KY/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS80YWM0/YmU3My03NjRlLTRl/YzYtYTg4Yi05NGQ0/NjE1MGUwZDguanBn.jpg",
+                "url": "https://img.companycam.com/AqF7L_mC0BWYrf5xgLcWFDt9BTa978CD7BhRnNT_1KY/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS80YWM0/YmU3My03NjRlLTRl/YzYtYTg4Yi05NGQ0/NjE1MGUwZDguanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/I4dtwvqeUqlQtDNof4KdQVmNPV-9CBtYHI-O6FrAsPs/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS80YWM0/YmU3My03NjRlLTRl/YzYtYTg4Yi05NGQ0/NjE1MGUwZDguanBn.jpg",
+                "url": "https://img.companycam.com/I4dtwvqeUqlQtDNof4KdQVmNPV-9CBtYHI-O6FrAsPs/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS80YWM0/YmU3My03NjRlLTRl/YzYtYTg4Yi05NGQ0/NjE1MGUwZDguanBn.jpg"
+            }
+        ],
+        "slug": "DGs3QsHnjZXpPBrP",
+        "project_url": "https://app.companycam.com/projects/61117798",
+        "public_url": "https://app.companycam.com/timeline/DGs3QsHnjZXpPBrP",
+        "coordinates": {
+            "lat": 25.620050833141953,
+            "lon": -80.47067027539015
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1710258518,
+        "updated_at": 1779822160,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/DGs3QsHnjZXpPBrP",
+        "photo_count": 37,
+        "capture_photo_deeplink": "ccam://camera/61117798/RWQgSm9uZXMg",
+        "integrations": [],
+        "notepad": null
+    },
+    {
+        "id": "41432045",
+        "company_id": "478798",
+        "creator_id": "2417550",
+        "creator_type": "User",
+        "creator_name": "Christian Castano",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Roberto Valdes",
+        "address": {
+            "street_address_1": "10910 Colonial Dr",
+            "street_address_2": null,
+            "city": "Miami",
+            "state": "FL",
+            "postal_code": "33157",
+            "country": null
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/Kh_GKUbS71Xvm0pJfzqkv6DnqCwxESp3DOAnD13Z3Rw/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8xNjAz/MzNmNS0yYjMzLTRj/NjYtYThkYS02MGVl/MDdkNGRmMWIuanBn.jpg",
+                "url": "https://img.companycam.com/Kh_GKUbS71Xvm0pJfzqkv6DnqCwxESp3DOAnD13Z3Rw/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8xNjAz/MzNmNS0yYjMzLTRj/NjYtYThkYS02MGVl/MDdkNGRmMWIuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/G84uhUf8UFfkCwH4LWJ-ECkPFIgSSNMwwYcddOvtUeY/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8xNjAz/MzNmNS0yYjMzLTRj/NjYtYThkYS02MGVl/MDdkNGRmMWIuanBn.jpg",
+                "url": "https://img.companycam.com/G84uhUf8UFfkCwH4LWJ-ECkPFIgSSNMwwYcddOvtUeY/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8xNjAz/MzNmNS0yYjMzLTRj/NjYtYThkYS02MGVl/MDdkNGRmMWIuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/KAm_YCve8Z_Usz5j0TWGYKbDTwITyHOJKCbwBhFv7gk/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8xNjAz/MzNmNS0yYjMzLTRj/NjYtYThkYS02MGVl/MDdkNGRmMWIuanBn.jpg",
+                "url": "https://img.companycam.com/KAm_YCve8Z_Usz5j0TWGYKbDTwITyHOJKCbwBhFv7gk/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8xNjAz/MzNmNS0yYjMzLTRj/NjYtYThkYS02MGVl/MDdkNGRmMWIuanBn.jpg"
+            }
+        ],
+        "slug": "8KCLmvNRkhRdRAHY",
+        "project_url": "https://app.companycam.com/projects/41432045",
+        "public_url": "https://app.companycam.com/timeline/8KCLmvNRkhRdRAHY",
+        "coordinates": {
+            "lat": 25.6202705800799,
+            "lon": -80.37050616242004
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1659718141,
+        "updated_at": 1779822386,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/8KCLmvNRkhRdRAHY",
+        "photo_count": 39,
+        "capture_photo_deeplink": "ccam://camera/41432045/Um9iZXJ0byBWYWxkZXM%3D",
+        "integrations": [],
+        "notepad": "\u003cdiv\u003eLiqueo en el aré de la cocina reparar un aré aproximadamente de 5x5 mano de obra y materiales $ 450\u0026nbsp;\u003c/div\u003e"
+    },
+    {
+        "id": "106170826",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "18751 Southwest 194th Avenue, Miami, FL 33187",
+        "address": {
+            "street_address_1": "18751 Southwest 194th Avenue",
+            "street_address_2": null,
+            "city": "Miami",
+            "state": "FL",
+            "postal_code": "33187",
+            "country": "US"
+        },
+        "feature_image": [],
+        "slug": "dtwSBgCGaAYeC9nq",
+        "project_url": "https://app.companycam.com/projects/106170826",
+        "public_url": "https://app.companycam.com/timeline/dtwSBgCGaAYeC9nq",
+        "coordinates": {
+            "lat": 25.5908485,
+            "lon": -80.50644140000001
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779814087,
+        "updated_at": 1779814087,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/dtwSBgCGaAYeC9nq",
+        "photo_count": 0,
+        "capture_photo_deeplink": "ccam://camera/106170826/MTg3NTEgU291dGh3ZXN0IDE5NHRoIEF2ZW51ZSwgTWlhbWksIEZMIDMzMTg3",
+        "integrations": [
+            {
+                "type": "Roofr Inc",
+                "relation_id": null
+            }
+        ],
+        "notepad": null
+    },
+    {
+        "id": "106147595",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Andrew Dovale",
+        "address": {
+            "street_address_1": "1703 Southwest 131st Place Circle South",
+            "street_address_2": null,
+            "city": "Miami",
+            "state": "FL",
+            "postal_code": "33175",
+            "country": "US"
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/UWT_yQajfKygptY2Yp4icR72iBVRgEqCgA3K87UTWgw/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS80NDE2/YjIxOS1kYWVjLTQ1/ZmItYThkNy1hM2Uz/ZTdmNmJkMzEuanBn.jpg",
+                "url": "https://img.companycam.com/UWT_yQajfKygptY2Yp4icR72iBVRgEqCgA3K87UTWgw/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS80NDE2/YjIxOS1kYWVjLTQ1/ZmItYThkNy1hM2Uz/ZTdmNmJkMzEuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/DjkMuBaHBZe3WAWyhMqUoKin9KIr6kTKqdG3Gznec7I/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS80NDE2/YjIxOS1kYWVjLTQ1/ZmItYThkNy1hM2Uz/ZTdmNmJkMzEuanBn.jpg",
+                "url": "https://img.companycam.com/DjkMuBaHBZe3WAWyhMqUoKin9KIr6kTKqdG3Gznec7I/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS80NDE2/YjIxOS1kYWVjLTQ1/ZmItYThkNy1hM2Uz/ZTdmNmJkMzEuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/KPWaR8U6kfRVs8k3jplgTPh8BMlqbKyzXiujqtIKMmQ/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS80NDE2/YjIxOS1kYWVjLTQ1/ZmItYThkNy1hM2Uz/ZTdmNmJkMzEuanBn.jpg",
+                "url": "https://img.companycam.com/KPWaR8U6kfRVs8k3jplgTPh8BMlqbKyzXiujqtIKMmQ/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS80NDE2/YjIxOS1kYWVjLTQ1/ZmItYThkNy1hM2Uz/ZTdmNmJkMzEuanBn.jpg"
+            }
+        ],
+        "slug": "tND4wpMovu9Ss87L",
+        "project_url": "https://app.companycam.com/projects/106147595",
+        "public_url": "https://app.companycam.com/timeline/tND4wpMovu9Ss87L",
+        "coordinates": {
+            "lat": 25.7517025,
+            "lon": -80.40882189999999
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779806649,
+        "updated_at": 1779813652,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/tND4wpMovu9Ss87L",
+        "photo_count": 43,
+        "capture_photo_deeplink": "ccam://camera/106147595/QW5kcmV3IERvdmFsZQ%3D%3D",
+        "integrations": [
+            {
+                "type": "Roofr Inc",
+                "relation_id": null
+            }
+        ],
+        "notepad": null
+    },
+    {
+        "id": "106150720",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "434 Palermo Avenue, Coral Gables, FL 33134",
+        "address": {
+            "street_address_1": "434 Palermo Avenue",
+            "street_address_2": null,
+            "city": "Coral Gables",
+            "state": "FL",
+            "postal_code": "33134",
+            "country": "US"
+        },
+        "feature_image": [],
+        "slug": "9JyA8m5wAR7u885M",
+        "project_url": "https://app.companycam.com/projects/106150720",
+        "public_url": "https://app.companycam.com/timeline/9JyA8m5wAR7u885M",
+        "coordinates": {
+            "lat": 25.74467,
+            "lon": -80.26406279999999
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779807641,
+        "updated_at": 1779807641,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/9JyA8m5wAR7u885M",
+        "photo_count": 0,
+        "capture_photo_deeplink": "ccam://camera/106150720/NDM0IFBhbGVybW8gQXZlbnVlLCBDb3JhbCBHYWJsZXMsIEZMIDMzMTM0",
+        "integrations": [
+            {
+                "type": "Roofr Inc",
+                "relation_id": null
+            }
+        ],
+        "notepad": null
+    },
+    {
+        "id": "106150586",
+        "company_id": "478798",
+        "creator_id": "2386328",
+        "creator_type": "User",
+        "creator_name": "Anaiz Rocha",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Neesha Montoya ",
+        "address": {
+            "street_address_1": "434 Palermo Ave",
+            "street_address_2": null,
+            "city": "Coral Gables",
+            "state": "FL",
+            "postal_code": "33134",
+            "country": "US"
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/Q3m771rtNOHa0L94ZrQ4HdbfX2u-SCTay9j10V_J9k0/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS84M2Qz/Nzc0OS0wYjNiLTQy/ZGUtOTc5NC04Zjdl/MjNlMmZjZDUuanBn.jpg",
+                "url": "https://img.companycam.com/Q3m771rtNOHa0L94ZrQ4HdbfX2u-SCTay9j10V_J9k0/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS84M2Qz/Nzc0OS0wYjNiLTQy/ZGUtOTc5NC04Zjdl/MjNlMmZjZDUuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/zILNTAvjOC6861m6WhjVkPQkpdcLamv89EiUXezn_Pg/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS84M2Qz/Nzc0OS0wYjNiLTQy/ZGUtOTc5NC04Zjdl/MjNlMmZjZDUuanBn.jpg",
+                "url": "https://img.companycam.com/zILNTAvjOC6861m6WhjVkPQkpdcLamv89EiUXezn_Pg/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS84M2Qz/Nzc0OS0wYjNiLTQy/ZGUtOTc5NC04Zjdl/MjNlMmZjZDUuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/d3qqijtS9ADFYECM2faB7JJycBhbgQrXxnDQYK5FN8U/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS84M2Qz/Nzc0OS0wYjNiLTQy/ZGUtOTc5NC04Zjdl/MjNlMmZjZDUuanBn.jpg",
+                "url": "https://img.companycam.com/d3qqijtS9ADFYECM2faB7JJycBhbgQrXxnDQYK5FN8U/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS84M2Qz/Nzc0OS0wYjNiLTQy/ZGUtOTc5NC04Zjdl/MjNlMmZjZDUuanBn.jpg"
+            }
+        ],
+        "slug": "f5pRmtmV93uEuri1",
+        "project_url": "https://app.companycam.com/projects/106150586",
+        "public_url": "https://app.companycam.com/timeline/f5pRmtmV93uEuri1",
+        "coordinates": {
+            "lat": 25.744683723809054,
+            "lon": -80.2640637382865
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779807595,
+        "updated_at": 1779808219,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/f5pRmtmV93uEuri1",
+        "photo_count": 5,
+        "capture_photo_deeplink": "ccam://camera/106150586/TmVlc2hhIE1vbnRveWEg",
+        "integrations": [],
+        "notepad": null
+    },
+    {
+        "id": "101604121",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Chacko Jacob-GAF Shingle Color TBD + Straps+Fascia+Gutters",
+        "address": {
+            "street_address_1": "3710 SW 61st Ave",
+            "street_address_2": null,
+            "city": "Davie",
+            "state": "FL",
+            "postal_code": "33314",
+            "country": "US"
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/Ss_rlvGu44k_ioB973yaRrgGM7UDgZbT_F4G20eZJr8/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS83NmUx/YTcwNy0yZmE5LTQx/NmUtOTJiYy05NGZl/ZmQ0OGMxZGYuanBn.jpg",
+                "url": "https://img.companycam.com/Ss_rlvGu44k_ioB973yaRrgGM7UDgZbT_F4G20eZJr8/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS83NmUx/YTcwNy0yZmE5LTQx/NmUtOTJiYy05NGZl/ZmQ0OGMxZGYuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/ljdhKWEnAsfFK0zYit_RfN8rKZTQ49L64Z35pp-b1so/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS83NmUx/YTcwNy0yZmE5LTQx/NmUtOTJiYy05NGZl/ZmQ0OGMxZGYuanBn.jpg",
+                "url": "https://img.companycam.com/ljdhKWEnAsfFK0zYit_RfN8rKZTQ49L64Z35pp-b1so/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS83NmUx/YTcwNy0yZmE5LTQx/NmUtOTJiYy05NGZl/ZmQ0OGMxZGYuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/DQBvIy-KZNmgJglskYxGI_q0zdA7e_vOAob38SKnBmY/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS83NmUx/YTcwNy0yZmE5LTQx/NmUtOTJiYy05NGZl/ZmQ0OGMxZGYuanBn.jpg",
+                "url": "https://img.companycam.com/DQBvIy-KZNmgJglskYxGI_q0zdA7e_vOAob38SKnBmY/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS83NmUx/YTcwNy0yZmE5LTQx/NmUtOTJiYy05NGZl/ZmQ0OGMxZGYuanBn.jpg"
+            }
+        ],
+        "slug": "bCPZY3qSxCAqLSAb",
+        "project_url": "https://app.companycam.com/projects/101604121",
+        "public_url": "https://app.companycam.com/timeline/bCPZY3qSxCAqLSAb",
+        "coordinates": {
+            "lat": 26.0758164650209,
+            "lon": -80.22814527153969
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1774454126,
+        "updated_at": 1779932088,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/bCPZY3qSxCAqLSAb",
+        "photo_count": 127,
+        "capture_photo_deeplink": "ccam://camera/101604121/Q2hhY2tvIEphY29iLUdBRiBTaGluZ2xlIENvbG9yIFRCRCArIFN0cmFwcytGYXNjaWErR3V0dGVycw%3D%3D",
+        "integrations": [],
+        "notepad": null
+    },
+    {
+        "id": "106128140",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "630 Southwest 66th Terrace, Pembroke Pines, FL 33023",
+        "address": {
+            "street_address_1": "630 Southwest 66th Terrace",
+            "street_address_2": null,
+            "city": "Pembroke Pines",
+            "state": "FL",
+            "postal_code": "33023",
+            "country": "US"
+        },
+        "feature_image": [],
+        "slug": "LkKcuSv9BNX22bG7",
+        "project_url": "https://app.companycam.com/projects/106128140",
+        "public_url": "https://app.companycam.com/timeline/LkKcuSv9BNX22bG7",
+        "coordinates": {
+            "lat": 26.0050192,
+            "lon": -80.2209457
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779798576,
+        "updated_at": 1779798576,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/LkKcuSv9BNX22bG7",
+        "photo_count": 0,
+        "capture_photo_deeplink": "ccam://camera/106128140/NjMwIFNvdXRod2VzdCA2NnRoIFRlcnJhY2UsIFBlbWJyb2tlIFBpbmVzLCBGTCAzMzAyMw%3D%3D",
+        "integrations": [
+            {
+                "type": "Roofr Inc",
+                "relation_id": null
+            }
+        ],
+        "notepad": null
+    },
+    {
+        "id": "106122978",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "3709 Northeast 208th Terrace, Aventura, FL 33180",
+        "address": {
+            "street_address_1": "3709 Northeast 208th Terrace",
+            "street_address_2": null,
+            "city": "Aventura",
+            "state": "FL",
+            "postal_code": "33180",
+            "country": "US"
+        },
+        "feature_image": [],
+        "slug": "qLWDGDmiR6fm9iKf",
+        "project_url": "https://app.companycam.com/projects/106122978",
+        "public_url": "https://app.companycam.com/timeline/qLWDGDmiR6fm9iKf",
+        "coordinates": {
+            "lat": 25.9695281,
+            "lon": -80.1275023
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779791753,
+        "updated_at": 1779931542,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/qLWDGDmiR6fm9iKf",
+        "photo_count": 0,
+        "capture_photo_deeplink": "ccam://camera/106122978/MzcwOSBOb3J0aGVhc3QgMjA4dGggVGVycmFjZSwgQXZlbnR1cmEsIEZMIDMzMTgw",
+        "integrations": [
+            {
+                "type": "Roofr Inc",
+                "relation_id": null
+            }
+        ],
+        "notepad": null
+    },
+    {
+        "id": "106122913",
+        "company_id": "478798",
+        "creator_id": "2386328",
+        "creator_type": "User",
+        "creator_name": "Anaiz Rocha",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Sarah Emerson",
+        "address": {
+            "street_address_1": "3709 NE 208th Terrace",
+            "street_address_2": null,
+            "city": "Aventura",
+            "state": "FL",
+            "postal_code": "33180",
+            "country": "US"
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/xzvKlO5U8rxU9lqqu5djSimihJUZIn1tlDbl-9hxo2s/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8zOTEw/ZWNlNi0xZTc3LTQz/YzAtYmMyNy05Zjg4/NWQzMjZjOGYuanBn.jpg",
+                "url": "https://img.companycam.com/xzvKlO5U8rxU9lqqu5djSimihJUZIn1tlDbl-9hxo2s/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8zOTEw/ZWNlNi0xZTc3LTQz/YzAtYmMyNy05Zjg4/NWQzMjZjOGYuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/WKkJ5kSkWOcSkqKJhzeqDWp4GpVJskGXeMVf4HWgVvE/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8zOTEw/ZWNlNi0xZTc3LTQz/YzAtYmMyNy05Zjg4/NWQzMjZjOGYuanBn.jpg",
+                "url": "https://img.companycam.com/WKkJ5kSkWOcSkqKJhzeqDWp4GpVJskGXeMVf4HWgVvE/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8zOTEw/ZWNlNi0xZTc3LTQz/YzAtYmMyNy05Zjg4/NWQzMjZjOGYuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/2srT7o85wW7HvXUudY8V9HdSVBQZbMD5S1DOUPaFplM/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8zOTEw/ZWNlNi0xZTc3LTQz/YzAtYmMyNy05Zjg4/NWQzMjZjOGYuanBn.jpg",
+                "url": "https://img.companycam.com/2srT7o85wW7HvXUudY8V9HdSVBQZbMD5S1DOUPaFplM/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8zOTEw/ZWNlNi0xZTc3LTQz/YzAtYmMyNy05Zjg4/NWQzMjZjOGYuanBn.jpg"
+            }
+        ],
+        "slug": "2Mudu4tBmJP84983",
+        "project_url": "https://app.companycam.com/projects/106122913",
+        "public_url": "https://app.companycam.com/timeline/2Mudu4tBmJP84983",
+        "coordinates": {
+            "lat": 25.9695281,
+            "lon": -80.1275023
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779791459,
+        "updated_at": 1779791483,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/2Mudu4tBmJP84983",
+        "photo_count": 10,
+        "capture_photo_deeplink": "ccam://camera/106122913/U2FyYWggRW1lcnNvbg%3D%3D",
+        "integrations": [],
+        "notepad": null
+    },
+    {
+        "id": "106109411",
+        "company_id": "478798",
+        "creator_id": "2379239",
+        "creator_type": "User",
+        "creator_name": "Candy Caboverde",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "10721 Southwest 51st Drive, Miami, FL 33165",
+        "address": {
+            "street_address_1": "10721 Southwest 51st Drive",
+            "street_address_2": null,
+            "city": "Miami",
+            "state": "FL",
+            "postal_code": "33165",
+            "country": "US"
+        },
+        "feature_image": [],
+        "slug": "9WD8Ti4nLbctWQeQ",
+        "project_url": "https://app.companycam.com/projects/106109411",
+        "public_url": "https://app.companycam.com/timeline/9WD8Ti4nLbctWQeQ",
+        "coordinates": {
+            "lat": 25.7206051,
+            "lon": -80.36789449999999
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779732662,
+        "updated_at": 1779732662,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/9WD8Ti4nLbctWQeQ",
+        "photo_count": 0,
+        "capture_photo_deeplink": "ccam://camera/106109411/MTA3MjEgU291dGh3ZXN0IDUxc3QgRHJpdmUsIE1pYW1pLCBGTCAzMzE2NQ%3D%3D",
+        "integrations": [
+            {
+                "type": "Roofr Inc",
+                "relation_id": null
+            }
+        ],
+        "notepad": null
+    },
+    {
+        "id": "96976321",
+        "company_id": "478798",
+        "creator_id": "2457075",
+        "creator_type": "User",
+        "creator_name": "Inmer Gonzalez",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Florida Christian ",
+        "address": {
+            "street_address_1": "4200 sw 89th ave",
+            "street_address_2": null,
+            "city": "Miami ",
+            "state": "Fl ",
+            "postal_code": null,
+            "country": "US"
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/yRC9wPTpN7ILai4W01eyYJ3OQUqDxHg5m_Fzgr4-DMI/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS80MGIz/MjhlMy1mOTgzLTRj/NDItOTQ4MC1iYjRj/Y2Y2MTAyNzcuanBn.jpg",
+                "url": "https://img.companycam.com/yRC9wPTpN7ILai4W01eyYJ3OQUqDxHg5m_Fzgr4-DMI/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS80MGIz/MjhlMy1mOTgzLTRj/NDItOTQ4MC1iYjRj/Y2Y2MTAyNzcuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/Nb4gV6JA27dicpgThqzi0pBiRE71H0CZd10gc1Newg0/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS80MGIz/MjhlMy1mOTgzLTRj/NDItOTQ4MC1iYjRj/Y2Y2MTAyNzcuanBn.jpg",
+                "url": "https://img.companycam.com/Nb4gV6JA27dicpgThqzi0pBiRE71H0CZd10gc1Newg0/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS80MGIz/MjhlMy1mOTgzLTRj/NDItOTQ4MC1iYjRj/Y2Y2MTAyNzcuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/WFKX-jDlKrqfBQXb0cEbLWae1dma5P_wagRETPnc4OE/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS80MGIz/MjhlMy1mOTgzLTRj/NDItOTQ4MC1iYjRj/Y2Y2MTAyNzcuanBn.jpg",
+                "url": "https://img.companycam.com/WFKX-jDlKrqfBQXb0cEbLWae1dma5P_wagRETPnc4OE/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS80MGIz/MjhlMy1mOTgzLTRj/NDItOTQ4MC1iYjRj/Y2Y2MTAyNzcuanBn.jpg"
+            }
+        ],
+        "slug": "wuNfWUygppauVPuJ",
+        "project_url": "https://app.companycam.com/projects/96976321",
+        "public_url": "https://app.companycam.com/timeline/wuNfWUygppauVPuJ",
+        "coordinates": {
+            "lat": 25.478372854859124,
+            "lon": -80.48584346591373
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1768093179,
+        "updated_at": 1779846936,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/wuNfWUygppauVPuJ",
+        "photo_count": 48,
+        "capture_photo_deeplink": "ccam://camera/96976321/RmxvcmlkYSBDaHJpc3RpYW4g",
+        "integrations": [],
+        "notepad": null
+    },
+    {
+        "id": "106029553",
+        "company_id": "478798",
+        "creator_id": "2386328",
+        "creator_type": "User",
+        "creator_name": "Anaiz Rocha",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "David Goolabsingh ",
+        "address": {
+            "street_address_1": "8465 SW 181st Terrace",
+            "street_address_2": null,
+            "city": "Palmetto Bay",
+            "state": "FL",
+            "postal_code": "33157",
+            "country": "US"
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/9_LzKn9Y-IQEh3Lo9ZfPlMLIv8icjBTz0u-m8Kff374/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS84NWE2/ZDA0Ny03MDIxLTQ1/ZjctYmM4Ni03Mzll/ZTI3MDI2NDIuanBn.jpg",
+                "url": "https://img.companycam.com/9_LzKn9Y-IQEh3Lo9ZfPlMLIv8icjBTz0u-m8Kff374/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS84NWE2/ZDA0Ny03MDIxLTQ1/ZjctYmM4Ni03Mzll/ZTI3MDI2NDIuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/nVQKtVMHAYfCdcr5iOUbdHYPeud38y-LOhhdRk_YSQI/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS84NWE2/ZDA0Ny03MDIxLTQ1/ZjctYmM4Ni03Mzll/ZTI3MDI2NDIuanBn.jpg",
+                "url": "https://img.companycam.com/nVQKtVMHAYfCdcr5iOUbdHYPeud38y-LOhhdRk_YSQI/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS84NWE2/ZDA0Ny03MDIxLTQ1/ZjctYmM4Ni03Mzll/ZTI3MDI2NDIuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/UU5d4tWnEU8cAYpwqu_YV1jaGm-0HtZxqlNbYa36XbI/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS84NWE2/ZDA0Ny03MDIxLTQ1/ZjctYmM4Ni03Mzll/ZTI3MDI2NDIuanBn.jpg",
+                "url": "https://img.companycam.com/UU5d4tWnEU8cAYpwqu_YV1jaGm-0HtZxqlNbYa36XbI/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS84NWE2/ZDA0Ny03MDIxLTQ1/ZjctYmM4Ni03Mzll/ZTI3MDI2NDIuanBn.jpg"
+            }
+        ],
+        "slug": "er5qZuftCPBQ8J92",
+        "project_url": "https://app.companycam.com/projects/106029553",
+        "public_url": "https://app.companycam.com/timeline/er5qZuftCPBQ8J92",
+        "coordinates": {
+            "lat": 25.6019532,
+            "lon": -80.3295191
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1779476733,
+        "updated_at": 1779938225,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/er5qZuftCPBQ8J92",
+        "photo_count": 6,
+        "capture_photo_deeplink": "ccam://camera/106029553/RGF2aWQgR29vbGFic2luZ2gg",
+        "integrations": [],
+        "notepad": null
+    },
+    {
+        "id": "83005668",
+        "company_id": "478798",
+        "creator_id": "2463420",
+        "creator_type": "User",
+        "creator_name": "Raul Sanchez",
+        "integration_relation_id": null,
+        "status": "active",
+        "archived": false,
+        "public": true,
+        "name": "Yassiel Bode ",
+        "address": {
+            "street_address_1": "14715 Mahogany Ct",
+            "street_address_2": null,
+            "city": "Miami Lakes",
+            "state": "FL",
+            "postal_code": "33014",
+            "country": null
+        },
+        "feature_image": [
+            {
+                "type": "original",
+                "uri": "https://img.companycam.com/HzqwRNt6vaZh5VlyEUyVlhKGyxzZOelOrSf9dWhs4Ls/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8wNzMx/OWE3ZS00NjI5LTQ1/YmQtODE1Ni1mYjk2/ZGFmZTVjMzYuanBn.jpg",
+                "url": "https://img.companycam.com/HzqwRNt6vaZh5VlyEUyVlhKGyxzZOelOrSf9dWhs4Ls/rs:fit:4032:4032/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8wNzMx/OWE3ZS00NjI5LTQ1/YmQtODE1Ni1mYjk2/ZGFmZTVjMzYuanBn.jpg"
+            },
+            {
+                "type": "web",
+                "uri": "https://img.companycam.com/Vobl5Tu1mJNXWa8qY2t8IC1W452xZg207Xf8y0HB6Bc/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8wNzMx/OWE3ZS00NjI5LTQ1/YmQtODE1Ni1mYjk2/ZGFmZTVjMzYuanBn.jpg",
+                "url": "https://img.companycam.com/Vobl5Tu1mJNXWa8qY2t8IC1W452xZg207Xf8y0HB6Bc/rs:fit:400:400/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8wNzMx/OWE3ZS00NjI5LTQ1/YmQtODE1Ni1mYjk2/ZGFmZTVjMzYuanBn.jpg"
+            },
+            {
+                "type": "thumbnail",
+                "uri": "https://img.companycam.com/oOFUo0X8LPQpRgDSWO_h7QRhQ6UBNqVfv-nn2BbbXb8/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8wNzMx/OWE3ZS00NjI5LTQ1/YmQtODE1Ni1mYjk2/ZGFmZTVjMzYuanBn.jpg",
+                "url": "https://img.companycam.com/oOFUo0X8LPQpRgDSWO_h7QRhQ6UBNqVfv-nn2BbbXb8/rs:fit:250:250/q:80/aHR0cHM6Ly9jb21w/YW55Y2FtLXBlbmRp/bmcuczMuYW1hem9u/YXdzLmNvbS8wNzMx/OWE3ZS00NjI5LTQ1/YmQtODE1Ni1mYjk2/ZGFmZTVjMzYuanBn.jpg"
+            }
+        ],
+        "slug": "iHbXUYc7S1hjy4yk",
+        "project_url": "https://app.companycam.com/projects/83005668",
+        "public_url": "https://app.companycam.com/timeline/iHbXUYc7S1hjy4yk",
+        "coordinates": {
+            "lat": 25.907026599510147,
+            "lon": -80.31017024070024
+        },
+        "geofence": [],
+        "primary_contact": null,
+        "created_at": 1747143792,
+        "updated_at": 1779724744,
+        "embedded_project_url": "https://app.companycam.com/embed/projects/iHbXUYc7S1hjy4yk",
+        "photo_count": 70,
+        "capture_photo_deeplink": "ccam://camera/83005668/WWFzc2llbCBCb2RlIA%3D%3D",
+        "integrations": [],
+        "notepad": "\u003cp\u003eWORK SCOPE 5/13\u003c/p\u003e\u003cp\u003e• tile repair area 6x6\u003c/p\u003e"
+    }
+]
