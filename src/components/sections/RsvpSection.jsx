@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { SectionHeader } from '../layout/Section'
 
-const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwv-xHkcBoNCEXPf8JyV0uQkY_cbcuULDq03LxdgwYorsGJLUpLkep-f0kbsgkKeU0T/exec'
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyuoLBQeCpRSs1Rsn2GGRLi_46NJwNFB7WAt4bBwkYUtKX9hbdfeDwal0I_VSzt_E2n/exec'
 
 export function RsvpSection() {
   const [form, setForm] = useState({ boat: '', foodRestrictions: '', nightOut: '', suggestions: '' })

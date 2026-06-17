@@ -2,13 +2,14 @@ import { useEffect } from 'react'
 import './App.css'
 import { Sparkle } from './components/ui'
 import { Header } from './components/layout'
-import { HomeSection, FlightsSection, LocationSection, ScheduleSection, RsvpSection } from './components/sections'
-import { useCountdown, useFlights } from './hooks'
-import { TARGET_DATE, GOOGLE_SHEET_CSV_URL, NAV_ITEMS, AIRBNB_LISTING } from './constants'
+import { HomeSection, FlightsSection, LocationSection, ScheduleSection, RsvpSection, FoodSection } from './components/sections'
+import { useCountdown, useFlights, useMeals } from './hooks'
+import { TARGET_DATE, GOOGLE_SHEET_CSV_URL, FOOD_SHEET_CSV_URL, NAV_ITEMS, AIRBNB_LISTING } from './constants'
 
 function App() {
   const timeLeft = useCountdown(TARGET_DATE)
   const { flights, loading: flightsLoading, error: flightsError } = useFlights(GOOGLE_SHEET_CSV_URL)
+  const { meals, setMeals, loading: mealsLoading } = useMeals(FOOD_SHEET_CSV_URL)
 
   useEffect(() => {
     const { hash } = window.location
@@ -39,6 +40,8 @@ function App() {
         <ScheduleSection />
 
         <LocationSection listing={AIRBNB_LISTING} />
+
+        <FoodSection meals={meals} setMeals={setMeals} loading={mealsLoading} />
 
         <RsvpSection />
       </main>

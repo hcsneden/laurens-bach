@@ -2,11 +2,15 @@ export const TARGET_DATE = new Date('2026-07-09T00:00:00')
 
 export const GOOGLE_SHEET_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTgpYCRRorwcohrbMhtXij_wm11O5xXrLpUGEiEgxLc2O8BNauGIcAdP7D9mqNow-qDXFYORWSk_M0g/pub?output=csv'
 
+// Replace FOOD_SHEET_GID with the gid of the "Food" tab (visible in the sheet URL as ?gid=XXXX)
+export const FOOD_SHEET_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTgpYCRRorwcohrbMhtXij_wm11O5xXrLpUGEiEgxLc2O8BNauGIcAdP7D9mqNow-qDXFYORWSk_M0g/pub?gid=2070506611&output=csv'
+
 export const NAV_ITEMS = [
   { name: 'HOME', href: '#home' },
   { name: 'FLIGHTS', href: '#flights' },
   { name: 'SCHEDULE', href: '#schedule' },
   { name: 'LOCATION', href: '#location' },
+  { name: 'FOOD', href: '#food' },
   { name: 'Qs', href: '#questions' }
 ]
 

@@ -24,6 +24,26 @@ function parseLine(line) {
  * Parse CSV data from Google Sheets flight format
  * Handles merged headers (Landing/Departing)
  */
+// Expects columns: Meal | Name1 | Name2 | Name3 | Dish
+// Returns map of mealKey -> { names: [str, str, str], dish: str }
+// If a meal appears multiple times, the last row wins.
+export function parseFoodCSV(csv) {
+  const lines = csv.trim().split('\n')
+  if (lines.length < 2) return {}
+
+  const result = {}
+  for (const line of lines.slice(1)) {
+    if (!line.trim()) continue
+    const [meal, name1, name2, name3, dish] = parseLine(line)
+    if (!meal?.trim()) continue
+    result[meal.trim()] = {
+      names: [name1?.trim() || '', name2?.trim() || '', name3?.trim() || ''],
+      dish: dish?.trim() || '',
+    }
+  }
+  return result
+}
+
 export function parseFlightsCSV(csv) {
   const lines = csv.trim().split('\n')
 

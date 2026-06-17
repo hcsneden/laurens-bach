@@ -1747,3 +1747,205 @@
   font-size: 2rem;
   color: var(--color-purple-dark);
 }
+
+
+/* ========================================
+   FOOD SECTION
+   ======================================== */
+
+/* Per-day color tokens */
+.meal-day-group--thu { --day-accent: #A8E6CF; --day-border: #6DC8A4; --day-text: #2D7A5A; --day-filled-bg: #E8F8F1; }
+.meal-day-group--fri { --day-accent: #FFB4D2; --day-border: #FF6B9D; --day-text: #C0306A; --day-filled-bg: #FFE8F2; }
+.meal-day-group--sat { --day-accent: #89CFF0; --day-border: #4DA8D8; --day-text: #1A6A9A; --day-filled-bg: #E3F4FC; }
+
+.section-food {
+  background: linear-gradient(180deg, var(--color-pink-light) 0%, var(--color-lavender-light) 100%);
+  position: relative;
+}
+
+.meal-loading {
+  font-family: var(--font-sans);
+  color: var(--color-text-muted);
+  font-size: 0.95rem;
+}
+
+/* Day groups stack vertically */
+.meal-days {
+  display: flex;
+  flex-direction: column;
+  gap: 1.75rem;
+  width: 100%;
+  max-width: 860px;
+}
+
+.meal-day-group {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.meal-day-label {
+  font-family: var(--font-display);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--day-text);
+  background: var(--day-accent);
+  border: 2px solid var(--day-border);
+  border-radius: 8px;
+  padding: 0.4rem 0.7rem;
+  white-space: nowrap;
+  min-width: 80px;
+  text-align: center;
+  margin-top: 0.3rem;
+  box-shadow: 2px 2px 0 var(--day-border);
+}
+
+.meal-day-cards {
+  display: flex;
+  gap: 1rem;
+  flex: 1;
+  flex-wrap: wrap;
+}
+
+/* Cards */
+.meal-card {
+  background: var(--color-white);
+  border: 2px solid var(--day-border);
+  border-radius: 16px;
+  box-shadow: 4px 4px 0 var(--day-border);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-width: 190px;
+}
+
+.meal-card-header {
+  background: var(--day-accent);
+  padding: 0.6rem 1rem;
+  border-bottom: 2px solid var(--day-border);
+}
+
+.meal-card-meal {
+  font-family: var(--font-script);
+  font-size: 1.35rem;
+  color: var(--day-text);
+  line-height: 1;
+}
+
+/* Meal form */
+.meal-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 0.6rem;
+}
+
+.meal-names {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.meal-input-dish {
+  border-top: 1.5px solid var(--day-border);
+  padding-top: 0.55rem;
+  margin-top: 0.1rem;
+}
+
+.meal-input {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--color-text-dark);
+  background: var(--color-white);
+  border: 1.5px solid var(--color-purple);
+  border-radius: 8px;
+  padding: 0.4rem 0.6rem;
+  outline: none;
+  transition: border-color 0.15s ease;
+}
+
+.meal-input:focus {
+  border-color: var(--color-pink-hot);
+}
+
+.meal-input::placeholder {
+  color: var(--color-text-muted);
+  opacity: 0.7;
+}
+
+.meal-error {
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  color: var(--color-pink-hot);
+  margin: 0;
+}
+
+.meal-form-actions {
+  display: flex;
+  gap: 0.4rem;
+}
+
+.meal-btn {
+  font-family: var(--font-display);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  border-radius: 50px;
+  padding: 0.35rem 0.8rem;
+  cursor: pointer;
+  border: 2px solid transparent;
+  transition: all 0.15s ease;
+}
+
+.meal-btn-submit {
+  background: var(--color-purple);
+  border-color: var(--color-purple-dark);
+  color: var(--color-white);
+  box-shadow: 2px 2px 0 var(--color-purple-dark);
+}
+
+.meal-btn-submit:hover:not(:disabled) {
+  background: var(--color-pink-hot);
+  border-color: var(--color-pink-hot);
+}
+
+.meal-btn-submit:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.meal-btn-cancel {
+  background: transparent;
+  border-color: var(--color-text-muted);
+  color: var(--color-text-muted);
+}
+
+.meal-btn-cancel:hover {
+  border-color: var(--color-purple);
+  color: var(--color-purple);
+}
+
+@media (max-width: 600px) {
+  .meal-day-group {
+    flex-direction: column;
+    gap: 0.6rem;
+  }
+
+  .meal-day-label {
+    min-width: unset;
+    align-self: flex-start;
+    margin-top: 0;
+  }
+
+  .meal-day-cards {
+    flex-direction: column;
+  }
+
+  .meal-card {
+    min-width: unset;
+  }
+}
